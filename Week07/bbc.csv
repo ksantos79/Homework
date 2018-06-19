@@ -1,190 +1,173 @@
 ,Twitter Account,Tweet Date,Tweet,Compound,Positive,Neutral,Negative,Tweets Ago
-0,@BBC,Fri Jun 15 18:04:07 +0000 2018,😂 Yer maw + technology = carnage https://t.co/nYbvEqad99,0.0,0.0,1.0,0.0,1
-1,@BBC,Fri Jun 15 17:02:02 +0000 2018,"📻📚🎧 Listen to @BBCRadio4's serialisation of Margaret Atwood's novel set in a world of women under oppression. 
+0,@BBCNews,Tue Jun 19 02:46:04 +0000 2018,A battle to save Indonesia's orang-utans https://t.co/hJPhfrsTrE,0.1531,0.327,0.408,0.265,1
+1,@BBCNews,Tue Jun 19 02:46:04 +0000 2018,XXXTentacion: Rapper's volatile life made compelling music https://t.co/4BCeXJckEv,0.2263,0.213,0.787,0.0,2
+2,@BBCNews,Tue Jun 19 02:43:57 +0000 2018,Apple fined for misleading customers in Australia https://t.co/FMeExnxwB5,-0.4019,0.0,0.722,0.278,3
+3,@BBCNews,Tue Jun 19 02:13:46 +0000 2018,Trump threatens additional $200bn in tariffs on China https://t.co/i1YLgeCEED,-0.3818,0.0,0.755,0.245,4
+4,@BBCNews,Tue Jun 19 02:13:46 +0000 2018,Finsbury Park attack: Minute's silence held to mark anniversary https://t.co/1unAM4gVEf,-0.4767,0.0,0.744,0.256,5
+5,@BBCNews,Tue Jun 19 01:55:11 +0000 2018,Tyson Fury: Former heavyweight champion looking forward to Windsor Park date https://t.co/pbLqNVF75O,0.0516,0.222,0.568,0.21,6
+6,@BBCNews,Tue Jun 19 01:45:51 +0000 2018,"Cannabis war 'comprehensively lost', says William Hague https://t.co/UWDOCYWbCC",-0.5994,0.0,0.642,0.358,7
+7,@BBCNews,Tue Jun 19 00:39:00 +0000 2018,Northern Rail: Guards row sparks fresh strikes https://t.co/QzFMWHukKh,-0.0516,0.213,0.556,0.231,8
+8,@BBCNews,Tue Jun 19 00:18:36 +0000 2018,Pogba and more: World Cup haircuts to watch https://t.co/JzDFFS51lS,0.0,0.0,1.0,0.0,9
+9,@BBCNews,Tue Jun 19 00:14:08 +0000 2018,'Ditch predicted grades' from university admissions https://t.co/TNjtSzrwbw,0.0,0.0,1.0,0.0,10
+10,@BBCNews,Tue Jun 19 00:04:35 +0000 2018,Susanna Reid in 'constant battle' with Piers Morgan https://t.co/25bf5rzoHU,-0.3818,0.0,0.755,0.245,11
+11,@BBCNews,Mon Jun 18 23:53:05 +0000 2018,How trying to stay cool could make the world even hotter https://t.co/J3QGF7j7S3,0.3182,0.173,0.827,0.0,12
+12,@BBCNews,Mon Jun 18 23:53:05 +0000 2018,The Rolling Stones: How Eel Pie Island shaped the band's career https://t.co/kueZne7U7m,0.0,0.0,1.0,0.0,13
+13,@BBCNews,Mon Jun 18 23:53:05 +0000 2018,Does Iran hold key to Dutch murder mystery? https://t.co/vl0XLiNgn3,-0.6908,0.0,0.63,0.37,14
+14,@BBCNews,Mon Jun 18 23:50:52 +0000 2018,"KPMG's audit work unacceptable, says watchdog https://t.co/A1P7KzDFml",-0.4588,0.0,0.667,0.333,15
+15,@BBCNews,Mon Jun 18 23:33:46 +0000 2018,Water firms failed customers during 'Beast from the East' https://t.co/Jcqt5wLo5O,-0.5106,0.0,0.732,0.268,16
+16,@BBCNews,Mon Jun 18 23:10:34 +0000 2018,Trump immigration: 'We're not bad guys' say teens training for border patrol https://t.co/V9sossOm2P,0.431,0.192,0.808,0.0,17
+17,@BBCNews,Mon Jun 18 23:10:34 +0000 2018,Syria: The girls who defied IS to keep learning https://t.co/3FX5CcO6f9,0.0,0.0,1.0,0.0,18
+18,@BBCNews,Mon Jun 18 23:10:34 +0000 2018,Hereditary's musical composer explains what makes it so scary. https://t.co/5D9SlwProb,-0.6269,0.0,0.686,0.314,19
+19,@BBCNews,Mon Jun 18 23:10:34 +0000 2018,'They morphed my face on to a porn clip' https://t.co/PlMiLnk4gy,0.0,0.0,1.0,0.0,20
+20,@BBCNews,Mon Jun 18 22:58:40 +0000 2018,Newspaper headlines: NHS tax 'headache' and England's Captain Marvel https://t.co/8ib5wBf5ec,0.4215,0.237,0.763,0.0,21
+21,@BBCNews,Mon Jun 18 22:44:32 +0000 2018,XXXTentacion: Controversial rapper shot dead in Florida https://t.co/ezbgFhzsbK,-0.7269,0.0,0.496,0.504,22
+22,@BBCNews,Mon Jun 18 22:01:01 +0000 2018,Tuesday’s Mirror: Never hit my Meghan #tomorrowspaperstoday #BBCPapers (via @BBCHelenaLee) https://t.co/vF1SayqDQu,0.0,0.0,1.0,0.0,23
+23,@BBCNews,Mon Jun 18 22:00:24 +0000 2018,Tuesday’s Daily Mail: Fleeced at the petrol pumps #tomorrowspaperstoday #BBCPapers (via @BBCHelenaLee) https://t.co/E5LPXdBFIg,0.0,0.0,1.0,0.0,24
+24,@BBCNews,Mon Jun 18 21:59:45 +0000 2018,Tuesday’s Sun: Kane scores twice amid insect swarm and roars... I’M BUZZING! #tomorrowspaperstoday #BBCPapers (via… https://t.co/ISdFRZpeje,0.0,0.0,1.0,0.0,25
+25,@BBCNews,Mon Jun 18 21:58:31 +0000 2018,World Cup 2018: How the England players rated v Tunisia https://t.co/KemQGvTbfM,0.0,0.0,1.0,0.0,26
+26,@BBCNews,Mon Jun 18 21:51:39 +0000 2018,Kane's date with Tunisia in 13 tweets https://t.co/08TC5uZHpa,0.0,0.0,1.0,0.0,27
+27,@BBCNews,Mon Jun 18 21:40:25 +0000 2018,Tuesday’s Express: Taxes will rise to pay for NHS boost #tomorrowspaperstoday #BBCPapers (via @BBCHelenaLee) https://t.co/6hg8lr2OxW,0.3182,0.158,0.76,0.082,28
+28,@BBCNews,Mon Jun 18 21:40:14 +0000 2018,"Tuesday’s Times: There’s no more money, Hammond tells Cabinet #tomorrowspaperstoday #BBCPapers (via @BBCHelenaLee) https://t.co/I2bEsMlV8l",-0.296,0.0,0.855,0.145,29
+29,@BBCNews,Mon Jun 18 21:40:06 +0000 2018,"Tuesday’s Guardian: US will not be ‘migrant camp like Europe’, declares Trump #tomorrowspaperstoday #BBCPapers (via… https://t.co/i9CfVhi8Tk",0.3612,0.143,0.857,0.0,30
+30,@BBCNews,Mon Jun 18 21:26:07 +0000 2018,Royal Ascot 2018 preview: From Cracksman and Dettori to Coolmore and Godolphin https://t.co/G3lk8FqBaH,0.0,0.0,1.0,0.0,31
+31,@BBCNews,Mon Jun 18 21:23:54 +0000 2018,Turkey issues warrant for NBA player Enes Kanter's father https://t.co/oCSxwLOGvN,0.0,0.0,1.0,0.0,32
+32,@BBCNews,Mon Jun 18 21:12:23 +0000 2018,Tuesday’s i: Tax rises to pay for NHS boost #tomorrowspapertoday #bbcpapers (via @BBCHelenaLee) https://t.co/5ZKTVh7qjQ,0.3182,0.168,0.745,0.087,33
+33,@BBCNews,Mon Jun 18 21:12:01 +0000 2018,Tuesday’s FT: May grants Hammond free hand on tax to fund £20bn NHS boost #tomorrowspaperstoday #bbcpapers (via… https://t.co/c07rMsCuci,0.8779,0.442,0.558,0.0,34
+34,@BBCNews,Mon Jun 18 21:11:37 +0000 2018,Tuesday’s Metro: Now Phil the gap... #tomorrowspaperstoday #BBCPapers (via @BBCHelenaLee) https://t.co/5N8378QUGs,0.0,0.0,1.0,0.0,35
+35,@BBCNews,Mon Jun 18 21:09:44 +0000 2018,"Tuesday’s Telegraph: War on cannabis lost, says Hague amid Cabinet row #tomorrowspaperstoday #BBCpapers (via… https://t.co/3S8xNnnQuL",-0.7351,0.0,0.677,0.323,36
+36,@BBCNews,Mon Jun 18 20:52:06 +0000 2018,"Pomp and ceremony for Order of the Garter
 
-The… https://t.co/jaYFlRtztE",0.3182,0.119,0.881,0.0,2
-2,@BBC,Fri Jun 15 16:28:04 +0000 2018,🌊🌋 Watch what happens when molten lava from Hawaii's Kilauea volcano meets the sea — what looks like steam is actua… https://t.co/5VbSwmFWw7,0.3612,0.111,0.889,0.0,3
-3,@BBC,Fri Jun 15 16:01:00 +0000 2018,When you remember that you get a lie in tomorrow... 🎉😂#FridayFeeling @george_ezra https://t.co/if2tZARVXc,0.0,0.0,1.0,0.0,4
-4,@BBC,Fri Jun 15 15:51:09 +0000 2018,"RT @bbcwritersroom: Attention #writers Studio Sitcom needs YOU!
-Check out a great new post on our blog from one of our #comedy #script read…",0.6588,0.166,0.834,0.0,5
-5,@BBC,Fri Jun 15 15:50:52 +0000 2018,RT @BBCWomansHour: 💚 What do you love about Dads? @F_of_Daughters shares some top tips about how to be a great father and the kind of role…,0.9062,0.381,0.619,0.0,6
-6,@BBC,Fri Jun 15 15:42:32 +0000 2018,"🐷🔮 Mystic Marcus - a pig with 'special powers',  has chosen the four nations that will reach the #WorldCup semi-fin… https://t.co/jEpvpVBx0m",0.4215,0.183,0.817,0.0,7
-7,@BBC,Fri Jun 15 15:19:45 +0000 2018,"RT @BBCRadio1PR: Our @BBCR1 family are excited to kick off the weekend vibes tomorrow🎉wake up to @dev_101 &amp; @Alicelevine,dance to the Great…",0.34,0.103,0.897,0.0,8
-8,@BBC,Fri Jun 15 15:13:04 +0000 2018,"💔 EastEnders actor Leslie Grantham, best known as the roguish ""Dirty"" Den Watts in the BBC One soap, has died aged… https://t.co/PUCal4HD7p",0.1531,0.157,0.709,0.134,9
-9,@BBC,Fri Jun 15 13:00:24 +0000 2018,"🌎 From Colombia's Cartagena to Exmouth in Western Australia, these are the world's top 5 hidden gems according to t… https://t.co/0zX7mH4Cs7",0.2023,0.091,0.909,0.0,10
-10,@BBC,Fri Jun 15 12:00:39 +0000 2018,🥊👨‍🎤 Who would you invite to your dream dinner party?  https://t.co/7HcjJzNiCk,0.6486,0.441,0.559,0.0,11
-11,@BBC,Fri Jun 15 11:18:36 +0000 2018,🖼️😲 Brazen thief bags himself a Banksy. https://t.co/vGqitgGppc,-0.5267,0.0,0.638,0.362,12
-12,@BBC,Fri Jun 15 11:00:19 +0000 2018,"😋🍓 Strawberry season is upon us! 
+More pictures: https://t.co/L59L9VzRVe https://t.co/vpNwUqye2P",0.0,0.0,1.0,0.0,37
+37,@BBCNews,Mon Jun 18 20:31:50 +0000 2018,"World Cup 2018: Lineker, Shearer, Lampard &amp; Ferdinand react to Kane's winner https://t.co/tQndhlNiBa",0.5859,0.241,0.759,0.0,38
+38,@BBCNews,Mon Jun 18 20:17:15 +0000 2018,Immigration rows: US and Germany compared https://t.co/EDrlV6sCVQ,0.0,0.0,1.0,0.0,39
+39,@BBCNews,Mon Jun 18 20:16:41 +0000 2018,RT @bbcthree: Why my daughter wants a hysterectomy at 15' https://t.co/gGEMHNxvwW https://t.co/ycoPnE7SzT,0.0,0.0,1.0,0.0,40
+40,@BBCNews,Mon Jun 18 20:15:05 +0000 2018,World Cup 2018: Harry Kane heads late England winner against Tunisia https://t.co/21xaIvn6GA,0.5859,0.257,0.743,0.0,41
+41,@BBCNews,Mon Jun 18 20:03:01 +0000 2018,Tunisia 1-2 England https://t.co/EVJtOofdaH,0.0,0.0,1.0,0.0,42
+42,@BBCNews,Mon Jun 18 20:01:24 +0000 2018,RT @BBCMOTD: Harry Kane is the first #ENG player to score a brace in a #WorldCup game since @GaryLineker did against Cameroon in 1990 ️⚽️️…,0.0,0.0,1.0,0.0,43
+43,@BBCNews,Mon Jun 18 19:53:43 +0000 2018,"RT @BBCSport: FT #TUN 1-2 #ENG 
 
-Here are eight flavours you never knew went well with them.
-👉… https://t.co/v5N71CZaKW",-0.2746,0.0,0.895,0.105,13
-13,@BBC,Fri Jun 15 10:05:03 +0000 2018,"This was a special moment. 💕 @5SOS cover @AliceMerton's 'No Roots' in the @BBCR1 Live Lounge... 
+Captain Kane saves the day! 
 
-https://t.co/CfjifsatE6",0.128,0.151,0.726,0.123,14
-14,@BBC,Fri Jun 15 09:56:53 +0000 2018,"RT @BBCiPlayer: We're celebrating female voices and achievements across the BBC to mark 100 years since women got the vote. 
+@HKane's late goal earns all three points for England.
 
-Not one to mi…",0.5719,0.139,0.861,0.0,15
-15,@BBC,Fri Jun 15 09:26:50 +0000 2018,RT @bbcpress: Record-breaking drama #KeepingFaith is coming to @BBCOne! https://t.co/rzAvOffv7Z @TeamEveMyles https://t.co/hG2SRqFg6O,0.0,0.0,1.0,0.0,16
-16,@BBC,Fri Jun 15 09:10:53 +0000 2018,"🙈 Wondering what happened to the daredevil raccoon caught scaling a skyscraper?
-#MPRraccoon https://t.co/JhViVNSMml",0.128,0.12,0.88,0.0,17
-17,@BBC,Fri Jun 15 08:00:08 +0000 2018,😍 ☁️ A beautiful phenomenon caught on film.  https://t.co/wz6CUbJDR1,0.5994,0.394,0.606,0.0,18
-18,@BBC,Fri Jun 15 07:28:02 +0000 2018,"It’s possible to forget your first language, even as an adult. But how, and why, this happens is complex and counte… https://t.co/lfC6NySCr5",-0.2263,0.0,0.917,0.083,19
-19,@BBC,Fri Jun 15 07:00:15 +0000 2018,"In her spare time, Claire gives 3D nipple tattoos to women who've had mastectomies.
-#HearHer via @BBCThree https://t.co/VhmjtZRVQs",0.0,0.0,1.0,0.0,20
-20,@BBC,Thu Jun 14 19:32:00 +0000 2018,"We're celebrating female voices and achievements across the BBC to mark 100 years since women got the vote. 
+Live reaction:
+📺 @BB…",0.0,0.0,1.0,0.0,44
+44,@BBCNews,Mon Jun 18 19:50:39 +0000 2018,"RT @BBCSport: GOAL! #TUN 1-2 #ENG 
 
-Kate… https://t.co/VbnExFqEI1",0.5719,0.163,0.837,0.0,21
-21,@BBC,Thu Jun 14 19:03:07 +0000 2018,Anne Robinson meets women from across the UK to find out - 100 years on from suffrage - what's still preventing the… https://t.co/0Vkrm7bFz6,-0.0258,0.0,0.948,0.052,22
-22,@BBC,Thu Jun 14 18:00:25 +0000 2018,"'I'm glad you're in my life.'
+HARRY KANE AGAIN!
 
-💕 How dementia has brought together a 71-year-old and an 18-year-old. https://t.co/5yTs9XYxEj",0.4588,0.167,0.833,0.0,23
-23,@BBC,Thu Jun 14 16:00:21 +0000 2018,"😂🦈  If you haven't seen @AlanDavies1's shark impression, you haven't lived. 
-#QI https://t.co/LdUwTLxRps",0.2263,0.137,0.863,0.0,24
-24,@BBC,Thu Jun 14 15:13:23 +0000 2018,💚 Hundreds of people have taken part in a silent procession in honour of the 72 people killed in the Grenfell Tower… https://t.co/uBVXW3wwgs,-0.2023,0.136,0.699,0.165,25
-25,@BBC,Thu Jun 14 13:10:42 +0000 2018,"RT @bbcthree: This is what painful sex feels like. #HearHer 
+He nods in at the back post.
 
-(you'll want sound on) https://t.co/NyMtT7wFK4",-0.0258,0.203,0.642,0.155,26
-26,@BBC,Thu Jun 14 13:01:07 +0000 2018,"""We gave him some food so hopefully he'll be back"": this fox climbed onto a London roof to sunbathe. 🦊😎… https://t.co/l9mI0SMSbA",0.541,0.155,0.845,0.0,27
-27,@BBC,Thu Jun 14 12:24:25 +0000 2018,😂⚽️ There's no official England #WorldCup song so we're backing our friends at @CBeebiesHQ who want to make this th… https://t.co/T4RLt9VxUl,0.3774,0.231,0.681,0.088,28
-28,@BBC,Thu Jun 14 12:11:30 +0000 2018,"RT @BBCNews: Grenfell Tower, and 12 other London buildings, illuminated green to mark one year since the fire that claimed 72 lives 
+📺 @BBCOne 
+📻 @5liveSport 
+📱 https://t.co/i2VxrPuSf7
 
-A nat…",-0.34,0.0,0.902,0.098,29
-29,@BBC,Thu Jun 14 12:01:05 +0000 2018,❤️🐶 From stray dog to downward facing dog.... Amaloh is one lucky pooch! https://t.co/980DE0YdmS,0.4753,0.192,0.808,0.0,30
-30,@BBC,Thu Jun 14 11:00:18 +0000 2018,"😍🐐 'Love is evil – it will make you fall in love with a goat.'
+#…",0.0,0.0,1.0,0.0,45
+45,@BBCNews,Mon Jun 18 19:48:57 +0000 2018,How hats were placed atop Easter Island statues https://t.co/MZWSo1Az9Z,0.0,0.0,1.0,0.0,46
+46,@BBCNews,Mon Jun 18 19:44:17 +0000 2018,Trump space force: US to set up sixth military branch https://t.co/Gi1iwgbjtg,0.0,0.0,1.0,0.0,47
+47,@BBCNews,Mon Jun 18 19:15:21 +0000 2018,World Cup 2018: Tunisia penalty pegs back England https://t.co/7gZhBNtkFX,-0.4588,0.0,0.727,0.273,48
+48,@BBCNews,Mon Jun 18 19:00:04 +0000 2018,"RT @BBCWorld: Five things to know about US child migrant separations
 
-12 Russian proverbs to get you through the… https://t.co/UoHrrXNBIg",0.6124,0.264,0.597,0.138,31
-31,@BBC,Thu Jun 14 08:01:02 +0000 2018,📚 These Belgian students are revising for exams with monks at a monastery.  https://t.co/JKkUt9hSuA,0.0,0.0,1.0,0.0,32
-32,@BBC,Thu Jun 14 07:27:04 +0000 2018,"How our teenage years shape our personality. 
-👉 https://t.co/QJTAN44EEc https://t.co/jnEjheADKI",0.0,0.0,1.0,0.0,33
-33,@BBC,Thu Jun 14 07:01:03 +0000 2018,"Could one 'super bacteria’ help to feed our growing world? 
-#BBCTakingTheTemperature https://t.co/ShjZWSewSw",0.8074,0.48,0.52,0.0,34
-34,@BBC,Wed Jun 13 19:03:07 +0000 2018,"Anatomist @theAliceRoberts embarks on a quest to rebuild her own body from scratch. 
+https://t.co/MPudb4AXJx https://t.co/hynyrL1cT4",0.0,0.0,1.0,0.0,49
+49,@BBCNews,Mon Jun 18 18:58:37 +0000 2018,Raft of safety flaws listed at Grenfell Tower Inquiry https://t.co/mFuA7pW8xZ,0.4215,0.237,0.763,0.0,50
+50,@BBCNews,Mon Jun 18 18:35:08 +0000 2018,"RT @BBCSport: GOAL! #ENG 1-1 #TUN 
 
-Can Science Make Me Perfect?… https://t.co/MSu2XCAYqw",0.0,0.0,1.0,0.0,35
-35,@BBC,Wed Jun 13 18:28:04 +0000 2018,"Discover the story of how Kensington became the most unequal place in Britain. 
+Sassi scores from the spot to draw Tunisia level...
 
-Before Grenfell: A Hidden History… https://t.co/68V4lSl8ee",-0.4005,0.0,0.863,0.137,36
-36,@BBC,Wed Jun 13 18:01:04 +0000 2018,😁 Russian workers being taught how to smile more ahead of the World Cup.  https://t.co/Qv9BoVmX25,0.3612,0.161,0.839,0.0,37
-37,@BBC,Wed Jun 13 16:30:31 +0000 2018,"RT @BBCOne: There are some ingredients that even Britain’s best home cooks can’t get on board with. #BBHC 🤔
+📺 @BBCOne 
+📻 @5liveSport 
+📱 https://t.co/i2VxrPuSf…",0.0,0.0,1.0,0.0,51
+51,@BBCNews,Mon Jun 18 18:34:32 +0000 2018,"RT @richard_conway: England odds cut to 12/1 to win World Cup.
+That sound you can hear is the whooshing noise of national expectation level…",0.4019,0.136,0.789,0.075,52
+52,@BBCNews,Mon Jun 18 18:34:04 +0000 2018,"RT @BBCMOTD: PENALTY for #TUN! 
 
-@Chris_Bavin https://t.co/whDV…",0.6369,0.181,0.819,0.0,38
-38,@BBC,Wed Jun 13 16:25:17 +0000 2018,"RT @BBCiPlayer: Witness the might of female factory workers in Dagenham, who fought for equal pay in 1968. 💪 🙌🏾 
-#MadeinDagenham: https://t…",-0.4019,0.0,0.837,0.163,39
-39,@BBC,Wed Jun 13 16:01:03 +0000 2018,'Black people think I have white privilege.' https://t.co/SoNEFZfdZ6,0.0,0.0,1.0,0.0,40
-40,@BBC,Wed Jun 13 12:47:08 +0000 2018,RT @bbcarts: Flags by artists including Grayson Perry (@Alan_Measles) and Cornelia Parker have appeared across London's West End as the @ro…,0.0,0.0,1.0,0.0,41
-41,@BBC,Wed Jun 13 12:03:07 +0000 2018,⚡️ Meet Hertha Ayrton – the woman who shaped how we use electricity. https://t.co/LZnr5wtYNy,0.0,0.0,1.0,0.0,42
-42,@BBC,Wed Jun 13 11:00:15 +0000 2018,"Did you know you've had an accent since birth?
+Walker with the foul.
 
-🗣 Seven things you need to hear about your voice.
-👉… https://t.co/3OGd30hpVQ",0.0,0.0,1.0,0.0,43
-43,@BBC,Wed Jun 13 10:15:53 +0000 2018,"A daredevil raccoon in St Paul, Minnesota, has had the internet on tenterhooks after scaling 23 floors of a buildin… https://t.co/tqjQwFVL3I",0.128,0.077,0.923,0.0,44
-44,@BBC,Wed Jun 13 09:36:59 +0000 2018,"😲⚱️ An 18th Century Chinese vase, left for decades in a shoebox in France, has sold for 16.2m euros (£14.2m).
-👉… https://t.co/7atcYClrRw",0.0,0.0,1.0,0.0,45
-45,@BBC,Wed Jun 13 08:00:04 +0000 2018,"🐦🐦🐦
-Do these photos change your view of pigeons? https://t.co/SQKBEWW3Fs",0.0,0.0,1.0,0.0,46
-46,@BBC,Wed Jun 13 07:26:10 +0000 2018,"🌱👀 Shengshan island in China's eastern Zhejiang province is home to Houtouwan, an abandoned village that has become… https://t.co/66x0Zg6TOm",-0.4588,0.0,0.857,0.143,47
-47,@BBC,Wed Jun 13 07:00:15 +0000 2018,"🎶 SOUND ON 🎶 
-💙 This is the most relaxing way to start your day.
-#OurBluePlanet w/ @OceanX https://t.co/powXPfRdat",0.5413,0.189,0.811,0.0,48
-48,@BBC,Tue Jun 12 19:01:04 +0000 2018,"🖥 The US has debuted the world's fastest supercomputer and it can process 200 petaflops per second.
-👉… https://t.co/6vWlmLR2nT",0.0,0.0,1.0,0.0,49
-49,@BBC,Tue Jun 12 18:07:04 +0000 2018,This is the remarkable story of a convent of Mexican nuns helping to save one of the world's most endangered amphib… https://t.co/onravMF7l2,0.8402,0.333,0.667,0.0,50
-50,@BBC,Tue Jun 12 17:01:05 +0000 2018,"🤢 How long has it been since you last washed your tea towel?
+Drama...
 
-Multi-use of tea towels is putting households at risk… https://t.co/PHJy8gmVSX",0.0,0.0,1.0,0.0,51
-51,@BBC,Tue Jun 12 16:00:03 +0000 2018,"🇸🇪🙊 Learn how to swear like a Swede! 
+📺 @BBCOne 
+📻 @5liveSport 
+📱 https://t.co/l6JYmNZTdW
 
-(via @BBCRadio4) https://t.co/S789Be360L",0.3802,0.233,0.667,0.1,52
-52,@BBC,Tue Jun 12 15:36:53 +0000 2018,RT @bbcwritersroom: Find out how we created 4 brand new #comedy monologues across the UK for the #BiggestWeekend festival and watch all 4 n…,0.6369,0.206,0.794,0.0,53
-53,@BBC,Tue Jun 12 15:14:54 +0000 2018,RT @BBCOne: .@StaceyDooley investigates the changing face of women's protests. https://t.co/1cdtKOdQ50,-0.2263,0.0,0.84,0.16,54
-54,@BBC,Tue Jun 12 15:01:55 +0000 2018,"😂 Charlie Chaplin: The original distracted boyfriend.
-👉 https://t.co/SplrRVbEzo https://t.co/5pYs0lIMcM",-0.0258,0.215,0.561,0.224,55
-55,@BBC,Tue Jun 12 14:38:12 +0000 2018,"RT @bbcarts: 100 years after women won the right to vote, and with the #MeToo movement making waves around the world, are we really any clo…",0.5719,0.129,0.871,0.0,56
-56,@BBC,Tue Jun 12 13:02:04 +0000 2018,"The ""Sensational Six"" have been friends for 40 years. After one of the group died from cancer, this photo inspired… https://t.co/grOw4K4mEA",-0.7096,0.107,0.619,0.275,57
-57,@BBC,Tue Jun 12 12:15:37 +0000 2018,"RT @BBCR1: How special is this cover?!
+#bbcworldcup #ThreeL…",-0.6155,0.0,0.777,0.223,53
+53,@BBCNews,Mon Jun 18 18:33:03 +0000 2018,World Cup 2018: Tunisia v England - rate the players https://t.co/QX3Vgs05Hp,0.0,0.0,1.0,0.0,54
+54,@BBCNews,Mon Jun 18 18:30:33 +0000 2018,World Cup 2018: Harry Kane gives England 1-0 lead against Tunisia https://t.co/6ZetOFJFKF,0.0,0.0,1.0,0.0,55
+55,@BBCNews,Mon Jun 18 18:21:16 +0000 2018,Queen's nephew Lord Snowdon to seek election to Lords https://t.co/PU9u9LSzL6,0.0,0.0,1.0,0.0,56
+56,@BBCNews,Mon Jun 18 18:15:45 +0000 2018,"RT @5liveSport: #ENG lead #TUN in Volgograd!
 
-@5SOS take on @AliceMerton's 'No Roots' in the Live Lounge 💕 https://t.co/EmYc7O524x",0.2003,0.141,0.755,0.104,58
-58,@BBC,Tue Jun 12 12:00:21 +0000 2018,🙌 Meet the 10-year-old with cerebral palsy who's won a modelling contract. https://t.co/UxQFh12fPX,0.5719,0.27,0.73,0.0,59
-59,@BBC,Tue Jun 12 11:04:42 +0000 2018,"RT @bbcrb: Who doesn't love Gromit?
-Even his biggest fans won't have seen him like THIS before! 😮✈️ https://t.co/8jvF1G1EeC",-0.2869,0.108,0.734,0.158,60
-60,@BBC,Tue Jun 12 11:03:02 +0000 2018,"🥒 Use a wooden chopping board 
-🍄 Stop peeling your mushrooms
-🤔 Throw your spaghetti at the wall... 
+Want to watch the pictures with radio commentary? 📻
 
-Here are 10 co… https://t.co/e8RCeFoJvg",-0.296,0.0,0.891,0.109,61
-61,@BBC,Tue Jun 12 10:21:42 +0000 2018,Captain Mainwaring and his comrades are to feature on a new set of stamps to mark the 50th anniversary of the class… https://t.co/h8wGtRaGtO,0.0,0.0,1.0,0.0,62
-62,@BBC,Tue Jun 12 10:10:18 +0000 2018,"RT @BBCR1: ✨💫 Today's the day! 💫✨
+We've got you covered. 👊
 
-Make sure you're listening to @claraamfo to hear @5SOS perform in the Live Lounge at 12pm 👉 https://t.co…",0.3802,0.101,0.899,0.0,63
-63,@BBC,Tue Jun 12 09:34:55 +0000 2018,RT @bbcthree: Robert Lee quit his well paid Wall Street job to feed the homeless https://t.co/OHl500fXn1,0.2732,0.123,0.877,0.0,64
-64,@BBC,Tue Jun 12 08:25:43 +0000 2018,"RT @bbcgetinspired: History will be made at the #WorldCup 
+Press the 🔴 or…",0.1511,0.07,0.93,0.0,57
+57,@BBCNews,Mon Jun 18 17:43:11 +0000 2018,Queen's 2018: Would technology temper the tennis tantrums? https://t.co/zv6faYeIR8,-0.6486,0.0,0.569,0.431,58
+58,@BBCNews,Mon Jun 18 17:38:32 +0000 2018,Trump says United States will not be a migrant camp https://t.co/MmyrdazG7h,0.4215,0.237,0.763,0.0,59
+59,@BBCNews,Mon Jun 18 17:36:09 +0000 2018,"RT @bbc5live: They faced #ENG in their opener 20 years ago...
 
-Here's @LivCookefs to get you in the mood. Could you do these super skills? #Ge…",0.5994,0.145,0.855,0.0,65
-65,@BBC,Tue Jun 12 08:00:18 +0000 2018,"🔊🐦 Ever heard a beatboxing starling? 
-#Springwatch https://t.co/N758EN4j3s",0.0,0.0,1.0,0.0,66
-66,@BBC,Tue Jun 12 07:28:06 +0000 2018,"🧟📱 A Chinese city has introduced a special pedestrian lane on one of its roads, exclusively for slow-walking smartp… https://t.co/rBVq8RO5KN",0.4019,0.137,0.863,0.0,67
-67,@BBC,Tue Jun 12 07:00:10 +0000 2018,This new service uses a smartphone and camera glasses to help blind or partially sighted people. https://t.co/5Ca4REP9xU,0.0,0.139,0.722,0.139,68
-68,@BBC,Mon Jun 11 18:00:20 +0000 2018,"'Everything that happened, could have been prevented. But it wasn't.'
-#Grenfell | 8.30pm | @BBCOne https://t.co/WN4aCfoNTA",0.0258,0.078,0.922,0.0,69
-69,@BBC,Mon Jun 11 17:31:06 +0000 2018,"Follow top female wrestler Kimberly Benson, aka Viper, as she fights in some of the most important matches of her c… https://t.co/KE73F2VSI8",0.0498,0.152,0.742,0.105,70
-70,@BBC,Mon Jun 11 16:00:11 +0000 2018,"🚺😂 @SandiToksvig can't get a moment of peace. 
-#QI https://t.co/D9YlBYFxpp",0.5423,0.304,0.696,0.0,71
-71,@BBC,Mon Jun 11 15:18:53 +0000 2018,RT @BBCr4today: The building blocks of life have been found on Mars and @SanjeevGupta45 says it's an exciting prospect 👽 #r4today https://t…,0.5423,0.213,0.711,0.075,72
-72,@BBC,Mon Jun 11 15:11:47 +0000 2018,"RT @bbc5live: ""Be in charge of your own happiness"" 💪
+And the face them again today.  ⚽️
 
- Inspiring words from champion wrestler @missviper91!
+Here's your #WorldCup mini guide to #TUN…",0.0,0.0,1.0,0.0,60
+60,@BBCNews,Mon Jun 18 17:26:45 +0000 2018,One-Day Cup: Hampshire beat Yorkshire to set up Kent final https://t.co/T4RcQ6co1v,0.0,0.0,1.0,0.0,61
+61,@BBCNews,Mon Jun 18 17:26:45 +0000 2018,New Brexit defeat for government in Lords https://t.co/KXCzCRxJWl,-0.4588,0.0,0.7,0.3,62
+62,@BBCNews,Mon Jun 18 17:19:38 +0000 2018,South Africa v England: Coach Eddie Jones has no concerns about position https://t.co/HhH1rDxcVD,-0.296,0.0,0.833,0.167,63
+63,@BBCNews,Mon Jun 18 17:19:37 +0000 2018,"RT @BBCSport: IT'S TIME!
 
-#FightLikeAGirl is on @BBCOne…",0.8908,0.398,0.602,0.0,73
-73,@BBC,Mon Jun 11 15:03:32 +0000 2018,"'My mum had tears coming out of her eyes'. 
+We're live on @BBCOne
+for #TUN v #ENG 
 
-❤️ This Sikh soldier became the first person to wear a turban for the… https://t.co/op7eX7mW5x",-0.2263,0.0,0.921,0.079,74
-74,@BBC,Mon Jun 11 14:25:15 +0000 2018,"The UK could see an end to homelessness within 10 years if the government embraces certain policies, according to t… https://t.co/7aqYA3BaEE",0.2732,0.095,0.905,0.0,75
-75,@BBC,Mon Jun 11 13:03:03 +0000 2018,"Think bacteria are bad? Think again. 🥛🥒🧀
+We've got four men who know a thing or two about @England
+and World Cups.…",0.0,0.0,1.0,0.0,64
+64,@BBCNews,Mon Jun 18 17:14:48 +0000 2018,World Cup 2018: Belgium beat debutants Panama 3-0 in Sochi https://t.co/WaoTk4uH1H,0.0,0.0,1.0,0.0,65
+65,@BBCNews,Mon Jun 18 17:07:33 +0000 2018,In pictures: Pomp and ceremony for Order of the Garter https://t.co/RRoHp5HHtq,0.0,0.0,1.0,0.0,66
+66,@BBCNews,Mon Jun 18 17:05:07 +0000 2018,Demolition or restoration: What should happen to Glasgow School of Art? https://t.co/13sNhVJRYc,0.0,0.0,1.0,0.0,67
+67,@BBCNews,Mon Jun 18 17:02:43 +0000 2018,Nikola Kalinic: Croatia send striker home after back injury claim https://t.co/drJZNVN5iz,-0.4215,0.0,0.781,0.219,68
+68,@BBCNews,Mon Jun 18 17:02:43 +0000 2018,Queen's Club: Andy Murray says his injury return against Nick Kyrgios 'is not about winning' https://t.co/vtAhw9BD8S,-0.6784,0.0,0.715,0.285,69
+69,@BBCNews,Mon Jun 18 17:00:26 +0000 2018,Queen's Club 2018: Britain's Cameron Norrie loses to Stan Wawrinka https://t.co/X7eZthbRze,-0.3182,0.0,0.813,0.187,70
+70,@BBCNews,Mon Jun 18 16:53:28 +0000 2018,London sixth-former plays Pogba's double https://t.co/XbVruGugpa,0.25,0.286,0.714,0.0,71
+71,@BBCNews,Mon Jun 18 16:27:34 +0000 2018,World Cup 2018: Dries Mertens volley gives Belgium lead against Panama https://t.co/rseEcEfIgc,0.0,0.0,1.0,0.0,72
+72,@BBCNews,Mon Jun 18 16:27:34 +0000 2018,Five things to know about US child migrant separations https://t.co/jLJ67vW3gE,0.0,0.0,1.0,0.0,73
+73,@BBCNews,Mon Jun 18 16:24:42 +0000 2018,RT @BBCNewsGraphics: How real terms #NHS spending is forecast to rise https://t.co/JWijVoywtM https://t.co/a6kWJkEJY2,0.0,0.0,1.0,0.0,74
+74,@BBCNews,Mon Jun 18 16:03:28 +0000 2018,"🏴󠁧󠁢󠁥󠁮󠁧󠁿 England kicky-kicky-kick-kick off their #WorldCup campaign tonight 🏴󠁧󠁢󠁥󠁮󠁧󠁿 
 
-These are things you should eat to get a healthy gut. 👉… https://t.co/ZS4UEckeoR",-0.2023,0.116,0.733,0.151,76
-76,@BBC,Mon Jun 11 12:01:04 +0000 2018,⚽ What's it like to be the most powerful woman in international sport? https://t.co/MqcaxKtJeH,0.6801,0.337,0.663,0.0,77
-77,@BBC,Mon Jun 11 11:03:13 +0000 2018,RT @BBCNews: 'I'm glad I was the first guardsman to wear a turban' https://t.co/fL4yzmOAPU,0.4588,0.214,0.786,0.0,78
-78,@BBC,Mon Jun 11 11:03:05 +0000 2018,"Is visual learning a myth?  🤔📚✍
+⚽ Watch #ENGTUN on @BBCOne - l… https://t.co/vmnr7ggmpc",0.0,0.0,1.0,0.0,75
+75,@BBCNews,Mon Jun 18 16:01:44 +0000 2018,Trump wades into German migration row https://t.co/ncSYUwlgC0,0.0,0.0,1.0,0.0,76
+76,@BBCNews,Mon Jun 18 15:38:28 +0000 2018,RT @bbcrb: Thank goodness a psychic alpaca has predicted tonight's result. We just couldn't bear the intrigue any longer... 😂️⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿 htt…,0.6705,0.234,0.766,0.0,77
+77,@BBCNews,Mon Jun 18 15:35:05 +0000 2018,"Government to introduce legislation to ban upskirting on Thursday to ensure ""this activity is criminal and not tole… https://t.co/ybvR1EI6CH",-0.6597,0.102,0.625,0.273,78
+78,@BBCNews,Mon Jun 18 15:34:22 +0000 2018,Buckingham Palace terror suspect 'said Queen was enemy' https://t.co/DDggu2qzFY,-0.8442,0.0,0.397,0.603,79
+79,@BBCNews,Mon Jun 18 15:29:05 +0000 2018,Bedroom cover versions make it onto YouTube's music streaming app https://t.co/BmxqvOgJW8,0.0,0.0,1.0,0.0,80
+80,@BBCNews,Mon Jun 18 15:02:12 +0000 2018,"""Don't ask me how much for a night""
 
-Studies have been unable to find robust evidence to suggest matching teaching to p… https://t.co/Ltv1kIAf2h",0.34,0.112,0.888,0.0,79
-79,@BBC,Mon Jun 11 10:12:03 +0000 2018,"We're celebrating female voices and achievements across the BBC to mark 100 years since women got the vote.
+After being confused for a prostitute at a networking event, magazine editor S… https://t.co/u8c5IxJIRU",-0.3182,0.0,0.887,0.113,81
+81,@BBCNews,Mon Jun 18 14:58:11 +0000 2018,"RT @BBCSport: It's almost time for #BEL v #PAN on BBC One 🙌
 
-Here's… https://t.co/5mfz9HMRb8",0.5719,0.163,0.837,0.0,80
-80,@BBC,Mon Jun 11 08:01:05 +0000 2018,🌭🐶 Two hundred dachshunds in one place... yes please! https://t.co/2ugZtgmBZ7,0.6476,0.398,0.602,0.0,81
-81,@BBC,Mon Jun 11 07:29:06 +0000 2018,"From fallopian tubes to the G-spot, women’s body parts have been named by – and after – men. 
+You can also watch the game in VR. Find out all the details on how to do so, h…",0.0,0.0,1.0,0.0,82
+82,@BBCNews,Mon Jun 18 14:51:16 +0000 2018,"Government establishing ""expert panel"" of clinicians to advise ministers on health benefits of medicinal cannabis -… https://t.co/03uasXNN7V",0.3818,0.14,0.86,0.0,83
+83,@BBCNews,Mon Jun 18 14:23:47 +0000 2018,World Cup 2018: Sweden start with a 1-0 win over South Korea https://t.co/hzsa7uhsfc,0.5859,0.257,0.743,0.0,84
+84,@BBCNews,Mon Jun 18 14:13:40 +0000 2018,"RT @bbcthree: This 13-year-old made an app to help disabled people find accessible services. 
 
-Does it matter?
-👉… https://t.co/AYYGElSo0U",0.0258,0.052,0.948,0.0,82
-82,@BBC,Mon Jun 11 07:03:07 +0000 2018,"🐺🏔🌲🎧
-Need to relax? 
+Watch more Solutions Lab here: https://t.co/…",0.5709,0.207,0.793,0.0,85
+85,@BBCNews,Mon Jun 18 14:12:11 +0000 2018,World Cup 2018: Sweden's Andreas Granqvist scores penalty against South Korea after VAR review https://t.co/0hSfA2fUQw,-0.4588,0.0,0.824,0.176,86
+86,@BBCNews,Mon Jun 18 14:07:00 +0000 2018,RT @bbclaurak: Has the PM found the magic money tree after all? https://t.co/FwqE0kZqoK,0.0,0.0,1.0,0.0,87
+87,@BBCNews,Mon Jun 18 13:58:13 +0000 2018,World Cup 2018: Flies plague England's build-up in Volgograd https://t.co/UO2mJC2cNn,0.0,0.0,1.0,0.0,88
+88,@BBCNews,Mon Jun 18 13:52:15 +0000 2018,"RT @BBCSport: FT #SWE 1-0 #KOR 
 
-Sit back, close your eyes and LISTEN to the incredible sounds of Alaska... https://t.co/oxXS1KWHKW",0.4404,0.146,0.854,0.0,83
-83,@BBC,Sun Jun 10 19:04:08 +0000 2018,"As the Poldarks look to rebuild their marriage, Cornwall struggles under Warleggan pressure. 
+Andreas Granqvist's penalty proves the difference between the sides.
 
-#Poldark | 9pm |… https://t.co/yPvJnKdRr9",-0.5719,0.0,0.761,0.239,84
-84,@BBC,Sun Jun 10 18:02:27 +0000 2018,Can we interest you in a little cockroach milk to go with your cereal? Because this could be the next big food fad.… https://t.co/Vk8TrTfYQr,0.4588,0.12,0.88,0.0,85
-85,@BBC,Sun Jun 10 17:03:05 +0000 2018,Emily Davison became a martyr to the suffragette cause after running in front of the king's horse at the Epsom Derb… https://t.co/ULpY95lcsi,0.0,0.0,1.0,0.0,86
-86,@BBC,Sun Jun 10 16:02:05 +0000 2018,Little girls don’t stay little forever. https://t.co/3yThJBbcUs,0.0,0.0,1.0,0.0,87
-87,@BBC,Sun Jun 10 15:22:00 +0000 2018,"RT @BBCOne: ""We are woman, we have loud voices and lightbulb hearts...
-Our bodies are like miracles, we are proud of what we are.""
+Live reaction:
+📻 @5liveSport 
+📱 http…",-0.4588,0.0,0.857,0.143,89
+89,@BBCNews,Mon Jun 18 13:50:08 +0000 2018,"""I feel gravely misunderstood and maligned""
 
-Celebra…",0.6808,0.196,0.804,0.0,88
-88,@BBC,Sun Jun 10 15:19:47 +0000 2018,"RT @BBCOne: Women across the UK are marching together to create a living artwork, to mark 100 years since the first British women won the v…",0.7003,0.201,0.799,0.0,89
-89,@BBC,Sun Jun 10 15:01:05 +0000 2018,"Is feminism actually just a war on men? @RachelParris has some thoughts... 😂
-#TheMashReport https://t.co/t31I5bFWgn",-0.5994,0.0,0.755,0.245,90
-90,@BBC,Sun Jun 10 14:38:18 +0000 2018,"RT @CBeebiesHQ: Would you consider an alternative to mainstream education? 
+Tory MP Sir Christopher Chope who blocked progress of Bill to ban upsk… https://t.co/hP2nXplb8O",-0.7783,0.099,0.528,0.373,90
+90,@BBCNews,Mon Jun 18 13:49:40 +0000 2018,"RT @bbcweather: Here's tomorrow's snapshot. Warm and humid for England and Wales with some sunshine breaking through, although staying clou…",0.6249,0.221,0.779,0.0,91
+91,@BBCNews,Mon Jun 18 13:31:55 +0000 2018,"'Knicker bunting' hung outside office of Tory MP who blocked progress of Bill to ban upskirting
 
-@BBCNews #SundayThoughts https://t.co/hwileHwd1K",0.0,0.0,1.0,0.0,91
-91,@BBC,Sun Jun 10 14:37:55 +0000 2018,"RT @BBCOne: We're celebrating female voices and achievements across the BBC to mark 100 years since women got the vote. 
-
-Hands up to Bake…",0.5719,0.139,0.861,0.0,92
-92,@BBC,Sun Jun 10 12:12:42 +0000 2018,"RT @bbcarts: 100 years after the Suffragettes won the right to vote, women will gather in the streets of Belfast, Cardiff, Edinburgh and Lo…",0.5719,0.139,0.861,0.0,93
-93,@BBC,Sun Jun 10 12:02:04 +0000 2018,"Kirsty Young presents live coverage of the processions across London, Edinburgh, Cardiff and Belfast to mark the ce… https://t.co/MMZLWLI5uG",0.0,0.0,1.0,0.0,94
-94,@BBC,Sun Jun 10 10:58:07 +0000 2018,Can you believe these wonders are beneath UK waters? https://t.co/BJ3SEEIjDN,0.0,0.0,1.0,0.0,95
-95,@BBC,Sun Jun 10 10:28:00 +0000 2018,"In 1913, Emily Wilding Davison made the ultimate sacrifice in the fight for women's right to vote.
-#HearHer #Vote100 https://t.co/qr7UAIPtGr",-0.3818,0.0,0.88,0.12,96
-96,@BBC,Sun Jun 10 10:11:08 +0000 2018,RT @BBCTwo: We're celebrating female voices and achievements across the BBC to mark 100 years since women got the vote. So here's to Polly…,0.5719,0.139,0.861,0.0,97
-97,@BBC,Sun Jun 10 10:01:05 +0000 2018,"Learning to embrace that sinking, nagging feeling we get when we realise we have made the wrong choice. 
-👉… https://t.co/HlxIqK5SHb",-0.4588,0.148,0.625,0.227,98
-98,@BBC,Sun Jun 10 09:01:05 +0000 2018,How the suffragettes woke us up. https://t.co/WrXoMnNNIZ,0.0,0.0,1.0,0.0,99
-99,@BBC,Sun Jun 10 08:01:04 +0000 2018,"❤️ The moment actor Maisie Sly, who's deaf, finds out she's going to meet the Queen!  https://t.co/0D0gJq0rgE",0.0,0.0,1.0,0.0,100
+https://t.co/mfi9KrhBtr",-0.4404,0.124,0.622,0.253,92
+92,@BBCNews,Mon Jun 18 13:27:52 +0000 2018,'Shocking' level of sexual harassment at music festivals https://t.co/d8P1Jv1gqq,-0.25,0.192,0.538,0.269,93
+93,@BBCNews,Mon Jun 18 13:22:35 +0000 2018,"""How the PM expects to fund this increase has completely unravelled"" - Shadow health secretary Jon Ashworth on gove… https://t.co/6my4fsK72a",0.3869,0.127,0.873,0.0,94
+94,@BBCNews,Mon Jun 18 13:16:33 +0000 2018,Cannabis oil row: Boy discharged from hospital https://t.co/PSghipWyx0,0.0,0.0,1.0,0.0,95
+95,@BBCNews,Mon Jun 18 13:11:51 +0000 2018,For more on PM's announcement on NHS funding https://t.co/YgeobRAwTO https://t.co/7CyGslxcte,0.0,0.0,1.0,0.0,96
+96,@BBCNews,Mon Jun 18 13:09:24 +0000 2018,How does gaming affect your brain? https://t.co/RgO3INuVBC,0.0,0.0,1.0,0.0,97
+97,@BBCNews,Mon Jun 18 13:04:51 +0000 2018,"Mother of 12-year-old boy with severe epilepsy calls for government review to ""make cannabis-based medication avail… https://t.co/kuDTk8IIST",-0.3818,0.0,0.86,0.14,98
+98,@BBCNews,Mon Jun 18 13:04:39 +0000 2018,Caster Semenya: Olympic champion to challenge 'unfair' IAAF testosterone ruling https://t.co/ALg86yH3wi,0.6369,0.366,0.634,0.0,99
+99,@BBCNews,Mon Jun 18 12:54:48 +0000 2018,Cristiano Ronaldo: Mocked statue at Madeira airport is replaced https://t.co/k6usx1461W,-0.3182,0.0,0.796,0.204,100
