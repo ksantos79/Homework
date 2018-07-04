@@ -1,119 +1,108 @@
 ,Twitter Account,Tweet Date,Tweet,Compound,Positive,Neutral,Negative,Tweets Ago
-0,@NYTimes,Tue Jun 19 04:22:05 +0000 2018,"RT @nytopinion: If Republican lawmakers have any sense of self-preservation, much less moral decency, they will refuse to engage with Presi…",0.0516,0.102,0.805,0.093,1
-1,@NYTimes,Tue Jun 19 04:02:01 +0000 2018,"A hat said to be Napoleon's has been auctioned off for over $400,000 in France https://t.co/D3erJ99rcv",0.0,0.0,1.0,0.0,2
-2,@NYTimes,Tue Jun 19 03:56:52 +0000 2018,IBM Unveils System That ‘Debates’ With Humans https://t.co/HS83AaOEwo,0.0,0.0,1.0,0.0,3
-3,@NYTimes,Tue Jun 19 03:47:04 +0000 2018,The Trump administration's tariffs on aluminum are setting off a fight in an arcane corner of the financial markets https://t.co/d1VgrngnnT,-0.3818,0.0,0.874,0.126,4
-4,@NYTimes,Tue Jun 19 03:32:06 +0000 2018,"One of the trees in the Mariposa Grove of giant sequoias in Yosemite National Park is estimated to be 1,800 years o… https://t.co/tx6rfa1hnf",0.0,0.0,1.0,0.0,5
-5,@NYTimes,Tue Jun 19 03:23:31 +0000 2018,RT @nytpolitics: President Trump’s homeland security secretary said the number of immigrants fraudulently posing as families has tripled. T…,0.4019,0.179,0.821,0.0,6
-6,@NYTimes,Tue Jun 19 03:02:03 +0000 2018,"A federal judge said Kris Kobach, the Kansas secretary of state, failed during a trial to show evidence of widespre… https://t.co/ImTrv2SNQG",-0.5106,0.0,0.845,0.155,7
-7,@NYTimes,Tue Jun 19 02:47:04 +0000 2018,RT @NYTNational: Republican senators in North Carolina unveiled legislation that would eliminate the final Saturday of early voting in stat…,0.0,0.0,1.0,0.0,8
-8,@NYTimes,Tue Jun 19 02:33:06 +0000 2018,"Small businesses could band together to make their own insurance plans, skirting the Affordable Care Act, under a n… https://t.co/vR01lfASZU",0.4939,0.151,0.849,0.0,9
-9,@NYTimes,Tue Jun 19 02:21:02 +0000 2018,Tim Cook has been pleading with the Trump White House to understand that a trade war is bad for the economy — and b… https://t.co/M7l6HsxGAJ,-0.8126,0.0,0.739,0.261,10
-10,@NYTimes,Tue Jun 19 02:08:04 +0000 2018,"“Mami!” the children’s voices cry out, between sobs. “Papá!”
+0,@NYTimes,Sat Jun 23 17:00:05 +0000 2018,"75% of Americans say immigration is good for the nation, the most to say so since at least 2001, according to a new… https://t.co/NjC96A5Abs",0.4404,0.116,0.884,0.0,1
+1,@NYTimes,Sat Jun 23 16:45:12 +0000 2018,Your weekend playlist has arrived https://t.co/5mAz2w2b0t,0.0,0.0,1.0,0.0,2
+2,@NYTimes,Sat Jun 23 16:30:06 +0000 2018,"As the driving ban gets lifted, Saudi women tell us about how their lives have changed — and the obstacles that rem… https://t.co/auvsFuz2T3",-0.7351,0.0,0.763,0.237,3
+3,@NYTimes,Sat Jun 23 16:15:03 +0000 2018,"ABC pulled the second episode of “The Proposal,” after a women accused one of its male contestants of facilitating… https://t.co/Uy7swpWNsw",-0.296,0.0,0.891,0.109,4
+4,@NYTimes,Sat Jun 23 16:00:11 +0000 2018,"Here's where you can watch the world cup in NYC, whether you're cheering for Mexico or Poland https://t.co/hNAxHGDFUB",0.5106,0.163,0.837,0.0,5
+5,@NYTimes,Sat Jun 23 15:45:08 +0000 2018,"“No one is going to separate us again,” said a Guatemalan woman who was reunited with her son after they were separ… https://t.co/OvP9li5dpA",0.0,0.0,1.0,0.0,6
+6,@NYTimes,Sat Jun 23 15:30:05 +0000 2018,“There’s an eye-of-the-hurricane feeling.” Federal workers struggle to enforce Trump’s migrant family separations. https://t.co/scGCpqAF1u,-0.3182,0.0,0.85,0.15,7
+7,@NYTimes,Sat Jun 23 15:15:08 +0000 2018,"After its stunning upset of Germany in the opening game, Mexico is looking to maintain its momentum as it takes on… https://t.co/OrZWc0RyiD",0.0,0.103,0.794,0.103,8
+8,@NYTimes,Sat Jun 23 15:00:09 +0000 2018,"That’s what I do, is deals,” President Trump said one day last month. Except that so far he has not. https://t.co/M3z850Bwvt",0.0,0.0,1.0,0.0,9
+9,@NYTimes,Sat Jun 23 14:45:04 +0000 2018,Not sure what to do this weekend in NYC? We’ve got you. https://t.co/pHAd0wQNXH,0.3182,0.161,0.839,0.0,10
+10,@NYTimes,Sat Jun 23 14:30:03 +0000 2018,The U.S. Open will change how it seeds players coming back from pregnancy after criticism over how Serena Williams’… https://t.co/PAyVILQreN,-0.4404,0.0,0.868,0.132,11
+11,@NYTimes,Sat Jun 23 14:15:08 +0000 2018,"Katie Arrington, the congressional candidate who beat Mark Sanford in South Carolina, was seriously injured in a ca… https://t.co/pGcWGI7CF0",-0.5267,0.0,0.784,0.216,12
+12,@NYTimes,Sat Jun 23 14:01:48 +0000 2018,"For 6 straight World Cups, Mexico has cheered its heroes through the first round only to see them crash out in the… https://t.co/3V3VkIKql8",0.7003,0.291,0.616,0.092,13
+13,@NYTimes,Sat Jun 23 13:49:15 +0000 2018,U.S. Open Will Revamp Its Seeding to Account for Pregnancy Leaves https://t.co/hnZksf6BqN,0.0,0.0,1.0,0.0,14
+14,@NYTimes,Sat Jun 23 13:42:02 +0000 2018,"75 Percent of Americans Say Immigration Is Good for Country, Poll Finds https://t.co/I6PlZDPqUp",0.4404,0.195,0.805,0.0,15
+15,@NYTimes,Sat Jun 23 13:40:03 +0000 2018,The Hebrew Home is known for its progressive approach to aging. But few things press the kind of generational hot b… https://t.co/9CB8Hl53mB,0.0,0.0,1.0,0.0,16
+16,@NYTimes,Sat Jun 23 13:31:04 +0000 2018,"Modern Love: ""We love inviting each other over and also sending each other home"" https://t.co/vfvXBI3Qnt",0.8934,0.471,0.529,0.0,17
+17,@NYTimes,Sat Jun 23 13:16:02 +0000 2018,Rafael Márquez is the captain of Mexico’s soccer team. Corporate sponsors at the World Cup are sprinting away from… https://t.co/SaKwEp5so0,0.0,0.0,1.0,0.0,18
+18,@NYTimes,Sat Jun 23 13:02:05 +0000 2018,"This flourless, crustless tart is rich, moist, sweet and and prepared almost entirely on the stovetop… https://t.co/1Juc7aGNXC",0.8176,0.378,0.622,0.0,19
+19,@NYTimes,Sat Jun 23 12:41:07 +0000 2018,"In Opinion, Contributing Writer Margaret Renkl writes: 
 
-A recording of immigrant children calling out for the… https://t.co/if7K5O8J1C",-0.8011,0.0,0.69,0.31,11
-11,@NYTimes,Tue Jun 19 01:57:03 +0000 2018,"-Men’s earnings increase by 6% when they become fathers
--A woman's hourly wages decrease by 4% with each child
+""A dog loves a person the way people love each other only… https://t.co/0R0lNtfCcF",0.836,0.317,0.683,0.0,20
+20,@NYTimes,Sat Jun 23 12:31:05 +0000 2018,"Kim Jong-pil, Political Kingmaker in South Korea, Dies at 92 https://t.co/D2jy5T4Bqk",0.0,0.0,1.0,0.0,21
+21,@NYTimes,Sat Jun 23 12:21:06 +0000 2018,"“We’re not supposed to be curious about death now. But how can you not be? It’s a great human mystery."" https://t.co/0YUiTcbx9u",-0.709,0.087,0.642,0.272,22
+22,@NYTimes,Sat Jun 23 12:02:05 +0000 2018,Thousands of barrels of bourbon came crashing down when a storage warehouse in Kentucky partly collapsed https://t.co/S4n2VnqG22,-0.204,0.0,0.892,0.108,23
+23,@NYTimes,Sat Jun 23 11:42:05 +0000 2018,Why does every thrift store (and their clothes) smell the same? And how do I get rid of the smell? Science to the r… https://t.co/bN2AfPTg5Z,0.0,0.0,1.0,0.0,24
+24,@NYTimes,Sat Jun 23 11:22:03 +0000 2018,"RT @nytpolitics: ""That's what I do, is deals,"" President Trump said last month. Except so far he has not, @peterbakernyt writes. https://t.…",0.0,0.0,1.0,0.0,25
+25,@NYTimes,Sat Jun 23 11:02:06 +0000 2018,"There is compelling evidence for the idea that viruses might be involved in Alzheimer’s, particularly 2 types of he… https://t.co/4bIranK0aY",0.2263,0.095,0.905,0.0,26
+26,@NYTimes,Sat Jun 23 10:40:28 +0000 2018,Carry On: What Roy Wood Jr. Can’t Travel Without https://t.co/He4aTWQing,0.0,0.0,1.0,0.0,27
+27,@NYTimes,Sat Jun 23 10:38:13 +0000 2018,Belgium vs. Tunisia: World Cup Live Updates https://t.co/AzqYvYOhuM,0.0,0.0,1.0,0.0,28
+28,@NYTimes,Sat Jun 23 10:32:07 +0000 2018,"RT @nytimesbusiness: Retirement investors, you’re back on your own. Just a year after it took partial effect, the so-called fiduciary rule…",0.0,0.0,1.0,0.0,29
+29,@NYTimes,Sat Jun 23 10:00:12 +0000 2018,"The Islamic State has attracted tens of thousands of followers from all around the world. But who, exactly, is ISIS… https://t.co/FVffTWU89X",0.4215,0.123,0.877,0.0,30
+30,@NYTimes,Sat Jun 23 09:40:07 +0000 2018,“We’re looking directly at their decisions about who to save and who not to save. It’s unprecedented.” https://t.co/x5R5eT5FiU,0.7506,0.286,0.714,0.0,31
+31,@NYTimes,Sat Jun 23 09:21:26 +0000 2018,Rubies are red. Sapphires are (mostly) blue. Yet somehow they are the same mineral. https://t.co/GEsTYSNpPe,0.0,0.0,1.0,0.0,32
+32,@NYTimes,Sat Jun 23 09:03:02 +0000 2018,The World Cup is (still) in the group stage. Here's are all of the games and where to watch them https://t.co/2RVx7cTCoR,0.0,0.0,1.0,0.0,33
+33,@NYTimes,Sat Jun 23 08:48:26 +0000 2018,"Phys Ed: For Survivors of Childhood Cancer, Walk https://t.co/8dns3t3vtz",-0.6597,0.0,0.645,0.355,34
+34,@NYTimes,Sat Jun 23 08:34:02 +0000 2018,"RT @nytimesworld: While Germans debate the role of Islam in their country, one woman has fulfilled her dream of having a liberal mosque wel…",0.5859,0.186,0.814,0.0,35
+35,@NYTimes,Sat Jun 23 08:12:16 +0000 2018,"In Opinion
 
-(Th… https://t.co/1Dq4JyIxg4",0.3182,0.103,0.897,0.0,12
-12,@NYTimes,Tue Jun 19 01:47:04 +0000 2018,"RT @nytopinion: .@PaulKrugman: What does American goodness have to do with American power, let alone world trade? The answer is that for 70…",0.25,0.115,0.808,0.077,13
-13,@NYTimes,Tue Jun 19 01:32:02 +0000 2018,President Trump said that he would direct the Pentagon to establish a sixth branch of the armed forces dedicated to… https://t.co/RgiAAQrSi8,0.4588,0.136,0.864,0.0,14
-14,@NYTimes,Tue Jun 19 01:17:03 +0000 2018,"RT @maggieNYT: Trump aides have encouraged him that the media is cherry-picking photos to show those of kids in cages, and aides have assur…",0.3612,0.098,0.902,0.0,15
-15,@NYTimes,Tue Jun 19 01:02:06 +0000 2018,Evening Briefing: Here's what you need to know at the end of the day https://t.co/6KWMKrriHB,0.0,0.0,1.0,0.0,16
-16,@NYTimes,Tue Jun 19 00:47:02 +0000 2018,"U.N. high commissioner for human rights: ""The thought that any state would seek to deter parents by inflicting such… https://t.co/dHCoO6Ew3B",0.0,0.0,1.0,0.0,17
-17,@NYTimes,Tue Jun 19 00:32:05 +0000 2018,"President Trump threatened tariffs on an additional $200 billion worth of Chinese goods, escalating a trade war wit… https://t.co/dfL2qosfnF",-0.7184,0.08,0.63,0.29,18
-18,@NYTimes,Tue Jun 19 00:17:03 +0000 2018,"RT @NYTNational: “Mami!” the children’s voices cry out, between sobs. “Papá!” https://t.co/cjC7thRkDB",-0.8011,0.0,0.582,0.418,19
-19,@NYTimes,Tue Jun 19 00:02:07 +0000 2018,"In Opinion, Contributing Writer Margaret Renkl writes: 
+A blue line was painted through a tightly knit town to show support for the police. Instead, it divided… https://t.co/ukPMSgELsL",0.4019,0.124,0.876,0.0,36
+36,@NYTimes,Sat Jun 23 07:55:51 +0000 2018,A transgender 9-year-old wanted a book about a kid like him. M.G. Hennessey wrote one. https://t.co/LoDGK0XyVy,0.3612,0.172,0.828,0.0,37
+37,@NYTimes,Sat Jun 23 07:37:20 +0000 2018,"Where migrant children, sent far from the border, are held across the U.S. https://t.co/R302R20aIA",0.0,0.0,1.0,0.0,38
+38,@NYTimes,Sat Jun 23 07:18:57 +0000 2018,"36 Hours in Seville: Take a tapas tour, learn the basics of flamenco, or relax in thermal baths inside a Mudéjar-st… https://t.co/ICUVp5vCQG",0.4404,0.132,0.868,0.0,39
+39,@NYTimes,Sat Jun 23 07:02:03 +0000 2018,"RT @nytgraphics: For 90 minutes, Costa Rica’s defense looked impregnable. Then Brazil finally broke through on a goal by Philippe Coutinho.…",-0.3182,0.067,0.807,0.126,40
+40,@NYTimes,Sat Jun 23 06:38:57 +0000 2018,Remains of an extinct gibbon were found in the tomb of an ancient Chinese noblewoman. Researchers believe it was an… https://t.co/zqb646kGK3,0.0,0.0,1.0,0.0,41
+41,@NYTimes,Sat Jun 23 06:20:43 +0000 2018,"If you’re a World Cup aficionado, take the time to savor this one. It may be the last version with a format. https://t.co/Sx8dNVaifP",0.0,0.0,1.0,0.0,42
+42,@NYTimes,Sat Jun 23 06:02:07 +0000 2018,"RT @nytimesworld: ""It’s deeply regrettable that this misconduct took place. We’re sorry"": The Kobe waterworks bureau on news that one of it…",-0.5563,0.0,0.854,0.146,43
+43,@NYTimes,Sat Jun 23 05:32:02 +0000 2018,"RT @SarahMaslinNir: A rare disease spread only from rat feces has turned up at Belmont racetrack, and killed a man. https://t.co/gGyTAPFFYz",-0.6705,0.0,0.8,0.2,44
+44,@NYTimes,Sat Jun 23 05:02:04 +0000 2018,"Napa Valley, a delightful landscape of wildflowers and grapevines spread across miles of rolling hills, is flauntin… https://t.co/m5UZZUmGBD",0.5859,0.192,0.808,0.0,45
+45,@NYTimes,Sat Jun 23 04:32:02 +0000 2018,RT @nytimesarts: ABC has pulled an episode of “The Proposal” after a woman accused a contestant of facilitating a sexual assault against he…,-0.7184,0.0,0.75,0.25,46
+46,@NYTimes,Sat Jun 23 04:02:02 +0000 2018,9 new books recommended by critics and editors at The New York Times https://t.co/bStMc2rovz,-0.1027,0.12,0.733,0.147,47
+47,@NYTimes,Sat Jun 23 03:47:05 +0000 2018,Researchers say this is the first reliable evidence that insects can use Earth’s magnetic field for navigation https://t.co/sEXNYuvMAr,0.0,0.0,1.0,0.0,48
+48,@NYTimes,Sat Jun 23 03:32:05 +0000 2018,"All 10 episodes of Ken Burns and Lynn Novick's ""The Vietnam War,"" are now on Netflix. @poniewozik reviewed the docu… https://t.co/qnwfpkmDaZ",0.0,0.0,1.0,0.0,49
+49,@NYTimes,Sat Jun 23 03:20:09 +0000 2018,XXXTentacion’s Killers Tracked Him as He Entered Motorcycle Dealership https://t.co/NH66Wu0RBd,-0.6486,0.0,0.677,0.323,50
+50,@NYTimes,Sat Jun 23 03:17:05 +0000 2018,"RT @arappeport: The Trump trade war is starting to hit Trump supporters and they aren’t happy. “He ran on ‘Make America Great Again,’ and t…",0.7783,0.301,0.59,0.11,51
+51,@NYTimes,Sat Jun 23 03:02:01 +0000 2018,11 great movies and TV shows that are leaving Netflix in July https://t.co/tZjNyRow0T,0.6249,0.255,0.745,0.0,52
+52,@NYTimes,Sat Jun 23 03:00:18 +0000 2018,Loose Ends: How to Get Out of a Hammock https://t.co/y54xAXNNxP,-0.3182,0.0,0.777,0.223,53
+53,@NYTimes,Sat Jun 23 02:47:06 +0000 2018,"RT @NYTNational: This photo provoked outrage and debate over President Trump’s “zero tolerance” immigration policy, but the child was not s…",-0.4019,0.0,0.837,0.163,54
+54,@NYTimes,Sat Jun 23 02:32:05 +0000 2018,"Modern Love: ""It’s been said that people are motivated by love or fear. So my question for us is: Are we doing this… https://t.co/AmyUeU5xaa",0.8481,0.329,0.578,0.092,55
+55,@NYTimes,Sat Jun 23 02:17:03 +0000 2018,"Dick Leitsch, an early force for gay rights, has died at 83. His 1966 “sip-in” helped pave the way for gay bars to… https://t.co/0U2xDaT4Wh",-0.7845,0.0,0.761,0.239,56
+56,@NYTimes,Sat Jun 23 02:02:05 +0000 2018,From @NYTgraphics: Video review at the World Cup is resulting in more goals from penalty kicks https://t.co/3sAaOXk2B5,-0.5046,0.0,0.831,0.169,57
+57,@NYTimes,Sat Jun 23 01:47:06 +0000 2018,"RT @jdelreal: I’ve spent the last few days in Nogales, Mexico, talking with migrant families about their journeys. Family after family told…",0.0,0.0,1.0,0.0,58
+58,@NYTimes,Sat Jun 23 01:32:03 +0000 2018,Thousands of barrels of bourbon came crashing down when a storage warehouse in Kentucky partly collapsed https://t.co/a8lZiVy5F3,-0.204,0.0,0.892,0.108,59
+59,@NYTimes,Sat Jun 23 01:17:01 +0000 2018,RT @randyNYT: The N.F.L. hasn’t recovered. The N.B.A. hasn’t looked back. How the 2 leagues have navigated @realDonaldTrump attacks  https:…,-0.4404,0.0,0.861,0.139,60
+60,@NYTimes,Sat Jun 23 01:02:06 +0000 2018,Evening Briefing: Here's what you need to know at the end of the day https://t.co/EaW1JOAvDR,0.0,0.0,1.0,0.0,61
+61,@NYTimes,Sat Jun 23 00:47:04 +0000 2018,"When a salon in Maryland posted a promotion for a $100 deal on hair color service, Facebook decided it was a politi… https://t.co/Yj2ApWJhGb",0.0,0.0,1.0,0.0,62
+62,@NYTimes,Sat Jun 23 00:32:08 +0000 2018,"The notion of losing yourself in a good book has taken on additional meaning, thanks to immersive experiences that… https://t.co/exiXayW3IE",0.4939,0.238,0.656,0.107,63
+63,@NYTimes,Sat Jun 23 00:17:05 +0000 2018,RT @nytimesmusic: 5 K-pop acts to watch at KCON 2018 https://t.co/VUtZP8NTpo https://t.co/Ib3cgPkOOx,0.0,0.0,1.0,0.0,64
+64,@NYTimes,Sat Jun 23 00:02:05 +0000 2018,Nina Simone's childhood home was named a “National Treasure” by the National Trust for Historic Preservation. The o… https://t.co/a9OsXNMC8n,0.5106,0.163,0.837,0.0,65
+65,@NYTimes,Fri Jun 22 23:47:03 +0000 2018,"RT @nytimesarts: It wasn't there long, but a ""heroin spoon"" sculpture was placed outside Purdue Pharma headquarters in Stamford this mornin…",-0.6486,0.0,0.815,0.185,66
+66,@NYTimes,Fri Jun 22 23:32:05 +0000 2018,North and South Korea agree to let relatives separated by the Korean War meet each other for the first time in more… https://t.co/TLLfFopIIR,-0.34,0.091,0.766,0.142,67
+67,@NYTimes,Fri Jun 22 23:17:02 +0000 2018,"RT @nytopinion: From Elton John: ""As an artist, I know that a single photograph can tell a greater truth than a pile of statistics, and the…",0.5859,0.194,0.806,0.0,68
+68,@NYTimes,Fri Jun 22 23:02:04 +0000 2018,McDonald’s McRib. KFC’s Double Down. Taco Bell’s Doritos Locos Tacos. Here are some of the more outrageous attempts… https://t.co/Sxa4R0R6wY,-0.5095,0.0,0.845,0.155,69
+69,@NYTimes,Fri Jun 22 22:47:02 +0000 2018,Evening Briefing: Here's what you need to know at the end of the day https://t.co/JnKcNPragD,0.0,0.0,1.0,0.0,70
+70,@NYTimes,Fri Jun 22 22:30:06 +0000 2018,"“What country are you a citizen of?"" the Border Patrol agent asked a driver at a highway checkpoint in Maine this w… https://t.co/i2IqzMITFs",0.0,0.0,1.0,0.0,71
+71,@NYTimes,Fri Jun 22 22:17:02 +0000 2018,RT @nytfood: The secret to the best popcorn isn't butter https://t.co/VdepkG72QY https://t.co/mlG4etWrI8,0.6369,0.276,0.724,0.0,72
+72,@NYTimes,Fri Jun 22 22:03:49 +0000 2018,“I feel like I’m going to die. I feel powerless.” Many migrant mothers separated from their children have no idea h… https://t.co/nonTBs57a8,-0.5574,0.094,0.677,0.229,73
+73,@NYTimes,Fri Jun 22 21:47:06 +0000 2018,"Senator Jeff Merkley says he is ""exploring the possibility"" of running for president — even if his fellow progressi… https://t.co/jSvh5m8XY1",0.0,0.0,1.0,0.0,74
+74,@NYTimes,Fri Jun 22 21:32:02 +0000 2018,"Meet the 11-year-old girls whose music wowed the New York Philharmonic 
+https://t.co/FSkP3MlAi9",0.5574,0.247,0.753,0.0,75
+75,@NYTimes,Fri Jun 22 21:21:05 +0000 2018,"RT @TheSteinLine: Oklahoma City’s Carmelo Anthony does not intend to opt out of his current contract before his Saturday ETO deadline, @NYT…",0.0,0.0,1.0,0.0,76
+76,@NYTimes,Fri Jun 22 21:10:06 +0000 2018,Here are a number of ways the U.S. government separates families https://t.co/DLM1Aq58Hy,0.0772,0.115,0.885,0.0,77
+77,@NYTimes,Fri Jun 22 21:00:12 +0000 2018,"""He said: 'I’ll come after you with everything that I have. You can take that as a threat.'"" —New York Times report… https://t.co/b5T3VXJjSh",0.0,0.0,1.0,0.0,78
+78,@NYTimes,Fri Jun 22 20:45:03 +0000 2018,"Food has become a trope by which the LGBTQ community has found commonality, sought visibility, championed diversity… https://t.co/OTypTCqy9M",0.296,0.121,0.879,0.0,79
+79,@NYTimes,Fri Jun 22 20:30:06 +0000 2018,"Colorado, one of the purplest states, has seen dramatic changes in recent years. In its governor's race, how far le… https://t.co/pzz1uOrRKQ",0.0,0.0,1.0,0.0,80
+80,@NYTimes,Fri Jun 22 20:15:46 +0000 2018,"This flourless, crustless tart is rich, moist, sweet and and prepared almost entirely on the stovetop… https://t.co/NTYJ8gI4ln",0.8176,0.378,0.622,0.0,81
+81,@NYTimes,Fri Jun 22 20:00:06 +0000 2018,"If “The Conners” must go on after Roseanne Barr, it has a chance to show middle America — all of it, this time, our… https://t.co/mlLzyUELLs",0.25,0.083,0.917,0.0,82
+82,@NYTimes,Fri Jun 22 19:50:04 +0000 2018,"RT @nytimesbusiness: When a salon in Frederick, Md. posted a promotion for a $100 deal on hair color service, Facebook decided it was a pol…",0.0,0.0,1.0,0.0,83
+83,@NYTimes,Fri Jun 22 19:40:09 +0000 2018,11 great movies and TV shows that are leaving Netflix in July https://t.co/ArwJDXkJOz,0.6249,0.255,0.745,0.0,84
+84,@NYTimes,Fri Jun 22 19:26:55 +0000 2018,"“We’re not supposed to be curious about death now. But how can you not be? It’s a great human mystery."" https://t.co/5Wy4bfoygl",-0.709,0.087,0.642,0.272,85
+85,@NYTimes,Fri Jun 22 19:15:10 +0000 2018,"RT @NYTNational: ⚡️ “Immigration coverage from The New York Times”
 
-""A dog loves a person the way people love each other only… https://t.co/E35OEQQ9E3",0.836,0.317,0.683,0.0,20
-20,@NYTimes,Mon Jun 18 23:47:28 +0000 2018,"The Senate voted to reinstate tough penalties on ZTE, setting up a clash with the White House https://t.co/ks6RlmmTHG",-0.128,0.0,0.914,0.086,21
-21,@NYTimes,Mon Jun 18 23:32:05 +0000 2018,"Extreme heat advisories were in place in more than a dozen states in the Midwest and Northeast, but relief is on th… https://t.co/tphipTfYZV",0.631,0.165,0.835,0.0,22
-22,@NYTimes,Mon Jun 18 23:17:03 +0000 2018,Former editors and reporters from The Denver Post are starting their own news outlet called The Colorado Sun https://t.co/afzbINrTB9,0.0,0.0,1.0,0.0,23
-23,@NYTimes,Mon Jun 18 23:17:03 +0000 2018,"RT @joncaramanica: XXXTentacion, dead at 20
-https://t.co/imhbhjxipx",-0.6486,0.0,0.583,0.417,24
-24,@NYTimes,Mon Jun 18 23:02:07 +0000 2018,"Nina Simone's childhood home is now a National Treasure
-https://t.co/xeXWpb7L7O",0.296,0.216,0.784,0.0,25
-25,@NYTimes,Mon Jun 18 22:51:04 +0000 2018,Evening Briefing: Here's what you need to know at the end of the day https://t.co/KRtSaAZz1F,0.0,0.0,1.0,0.0,26
-26,@NYTimes,Mon Jun 18 22:37:44 +0000 2018,"RT @nytimesmusic: XXXTentacion, rising rapper accused of violence, shot dead at 20 https://t.co/OkQ1nrn5m6 https://t.co/AaAHWoA3GR",-0.891,0.0,0.509,0.491,27
-27,@NYTimes,Mon Jun 18 22:32:03 +0000 2018,"Today, the Supreme Court declined to decide 2 challenges to partisan gerrymandering. Track all the biggest decision… https://t.co/1QVTN3hU8r",0.5994,0.246,0.754,0.0,28
-28,@NYTimes,Mon Jun 18 22:11:25 +0000 2018,RT @FrancesRobles: El New York Times decidió no publicar las fotos distribuidas por el gobierno de los refugios en la frontera donde están…,-0.296,0.0,0.909,0.091,29
-29,@NYTimes,Mon Jun 18 22:11:03 +0000 2018,RT @FrancesRobles: The New York Times decided as a newsroom not to publish the government handout photos of the border shelters where migra…,0.0,0.0,1.0,0.0,30
-30,@NYTimes,Mon Jun 18 22:02:07 +0000 2018,"Yayoi Kusama first presented ""Narcissus Garden"" at the 1966 Venice Biennale. On July 1, it comes to the Rockaways. https://t.co/sYFGTUsARX",0.0,0.0,1.0,0.0,31
-31,@NYTimes,Mon Jun 18 21:47:07 +0000 2018,"RT @NYTNational: ""They just ran over me, bro"": A video shows a Border Patrol vehicle knocking over a Native American on a reservation in so…",0.0,0.0,1.0,0.0,32
-32,@NYTimes,Mon Jun 18 21:32:04 +0000 2018,"The giant sequoias of Yosemite, a “forest masterpiece,” are open for visitors again after a renovation to add walki… https://t.co/kNDfId5C1w",0.0,0.0,1.0,0.0,33
-33,@NYTimes,Mon Jun 18 21:17:03 +0000 2018,"Christo's latest work is a structure made from 7,506 barrels, floating in London's Hyde Park https://t.co/TQLSI1ZXKV",0.0,0.0,1.0,0.0,34
-34,@NYTimes,Mon Jun 18 21:11:04 +0000 2018,"RT @peterbakernyt: Another first lady heard from: Rosalynn Carter releases statement saying ""The practice and policy today of removing chil…",0.0,0.0,1.0,0.0,35
-35,@NYTimes,Mon Jun 18 21:02:06 +0000 2018,RT @jessemckinley: NEW: @HealthNYGov plans to recommend legalizing #marijuana in NY. https://t.co/A0sFRDCzKE,0.3612,0.185,0.815,0.0,36
-36,@NYTimes,Mon Jun 18 20:45:04 +0000 2018,"The World Cup fans descended on Volgograd, Russia. Then the bugs descended on them. https://t.co/2ohfuwyfET",0.0,0.0,1.0,0.0,37
-37,@NYTimes,Mon Jun 18 20:30:13 +0000 2018,"Peter Buttigieg, a rising star in the Democratic Party, once wondered: “How does a sitting mayor in Indiana who’s g… https://t.co/sYFl3mqLNu",0.4019,0.13,0.87,0.0,38
-38,@NYTimes,Mon Jun 18 20:15:09 +0000 2018,"RT @nytimesmusic: Beyoncé pioneered a brand of musical ambush on the widest of scales with her 2013 self-titled album. And Saturday, with J…",0.0,0.0,1.0,0.0,39
-39,@NYTimes,Mon Jun 18 20:00:09 +0000 2018,“It’s like New York without the Chrysler Building. It’s like Paris without the Eiffel Tower. It’s like London witho… https://t.co/QygyFyB1TR,0.7579,0.306,0.694,0.0,40
-40,@NYTimes,Mon Jun 18 19:50:04 +0000 2018,"RT @nytopinion: .@StanGreenberg: Not only does Trump's base-oriented strategy get Democrats going, it hurts him with Republican moderates h…",-0.4767,0.0,0.853,0.147,41
-41,@NYTimes,Mon Jun 18 19:40:03 +0000 2018,"Fact check: President Trump said ""crime in Germany is way up"" because of immigration. That statement is false. Crim… https://t.co/qs4IcxPlFk",-0.5423,0.0,0.844,0.156,42
-42,@NYTimes,Mon Jun 18 19:30:09 +0000 2018,How Apple’s Tim Cook became tech’s top diplomat https://t.co/VLGnjS8kpt https://t.co/Mg1T9OnSLt,0.2023,0.167,0.833,0.0,43
-43,@NYTimes,Mon Jun 18 19:20:10 +0000 2018,New York’s health department will recommend legalizing marijuana. Gov. Andrew Cuomo had opposed the policy but now… https://t.co/TGdbJbAEJ7,0.1901,0.093,0.907,0.0,44
-44,@NYTimes,Mon Jun 18 19:10:06 +0000 2018,"RT @jazzedloon: i kept thinking: ""why hasn't there been a big @desusnice and @THEKIDMERO profile yet?"" so i wrote one, because the brand is…",0.0,0.0,1.0,0.0,45
-45,@NYTimes,Mon Jun 18 19:01:07 +0000 2018,She is the first Latina and openly lesbian woman to be nominated for governor in Texas. Her first task? Winning ove… https://t.co/0hnujuX5PZ,0.5267,0.139,0.861,0.0,46
-46,@NYTimes,Mon Jun 18 18:54:13 +0000 2018,"For those of you waiting for a miscue from England, you got it. The game is tied.  
-England: 1
-Tunisia: 1
-https://t.co/uzQ5cOYEO4",0.0,0.0,1.0,0.0,47
-47,@NYTimes,Mon Jun 18 18:50:09 +0000 2018,“We’ve seen more nonstate armed groups emerge in the last 7 years than in the previous 70 years” https://t.co/kjlrnTEHsq,0.0,0.0,1.0,0.0,48
-48,@NYTimes,Mon Jun 18 18:41:03 +0000 2018,"England vs. Tunisia: The night might get worse before it gets better for Tunisia, as it's all one way traffic right… https://t.co/Jb4GI9pXHB",-0.0516,0.112,0.769,0.119,49
-49,@NYTimes,Mon Jun 18 18:30:03 +0000 2018,"RT @peterbakernyt: As he attacks Merkel's migration policies, Trump claims ""crime in Germany is way up."" In fact, crime rates in Germany ar…",-0.872,0.0,0.669,0.331,50
-50,@NYTimes,Mon Jun 18 18:16:13 +0000 2018,"The Los Angeles Times named a new editor, Norman Pearlstine, a veteran journalist, as the paper’s new owner tries t… https://t.co/GQkA2GPQ0e",0.0,0.0,1.0,0.0,51
-51,@NYTimes,Mon Jun 18 18:10:03 +0000 2018,"RT @PekingMike: “Feminism terrifies authoritarians.”  @monaeltahawy and @LetaHong are both writing about this powerful truth. 
-https://t.co…",0.2382,0.251,0.587,0.163,52
-52,@NYTimes,Mon Jun 18 17:59:56 +0000 2018,"The England vs. Tunisia World Cup game is about to begin. But first, @sarahlyall needs to tell you about the bugs.… https://t.co/QpESR8PTMZ",0.0,0.0,1.0,0.0,53
-53,@NYTimes,Mon Jun 18 17:50:09 +0000 2018,The current system favors low-risk research and proposals by older scientists and white men https://t.co/lYSeebYcTT,0.25,0.125,0.875,0.0,54
-54,@NYTimes,Mon Jun 18 17:40:06 +0000 2018,"RT @emmagf: Uber drivers like Pedro Acosta say they can’t make a living driving for the app. He made 4,400 trips for Uber last year and mad…",0.4173,0.1,0.9,0.0,55
-55,@NYTimes,Mon Jun 18 17:30:07 +0000 2018,A sheriff’s deputy in Texas was charged with felony assault after being accused of repeatedly sexually assaulting a… https://t.co/PL9k6NrtSC,-0.9274,0.0,0.471,0.529,56
-56,@NYTimes,Mon Jun 18 17:20:05 +0000 2018,President Trump's efforts to boost once-iconic industries like coal mining and domestic steel manufacturing come at… https://t.co/VVXqiH2DvV,0.6369,0.257,0.743,0.0,57
-57,@NYTimes,Mon Jun 18 17:10:01 +0000 2018,"RT @nytgraphics: Today, the Supreme Court declined to decide two challenges to partisan gerrymandering. Track all the biggest decisions of…",0.5994,0.214,0.786,0.0,58
-58,@NYTimes,Mon Jun 18 17:01:04 +0000 2018,"England’s World Cup team has a new coach and young players. Untainted by past failures, they’re entering the tourna… https://t.co/PhutnHnTsh",-0.4588,0.0,0.857,0.143,59
-59,@NYTimes,Mon Jun 18 16:50:08 +0000 2018,"“I can’t go without my son.” The problem of separating immigrant families gets worse, as some parents are being dep… https://t.co/oIO4Vr3UBG",-0.7003,0.0,0.766,0.234,60
-60,@NYTimes,Mon Jun 18 16:40:05 +0000 2018,"RT @peterbakernyt: Among those condemning Trump administration practice of separating children at the border this weekend: Laura Bush, Anth…",0.0,0.0,1.0,0.0,61
-61,@NYTimes,Mon Jun 18 16:30:11 +0000 2018,"Nearly 4 years after Amazon purchased Twitch, it’s becoming clear that Amazon didn’t just score an early advantage… https://t.co/G16npCUT8F",0.6124,0.286,0.714,0.0,62
-62,@NYTimes,Mon Jun 18 16:20:07 +0000 2018,He was offside! That should be a penalty kick! Does this guy even know the rules? https://t.co/ARJ4ezKvKZ,-0.555,0.0,0.807,0.193,63
-63,@NYTimes,Mon Jun 18 16:10:05 +0000 2018,"While $50 billion sounds like a lot, that represents just 0.4% of the Chinese economy https://t.co/8oxZTX6jTu",0.3612,0.152,0.848,0.0,64
-64,@NYTimes,Mon Jun 18 16:00:16 +0000 2018,"2 years ago, NASA dismissed and mocked an amateur who criticized a database of asteroid findings. Now Nathan Myhrvo… https://t.co/BwdagmBlEJ",-0.5859,0.0,0.769,0.231,65
-65,@NYTimes,Mon Jun 18 15:50:07 +0000 2018,"RT @EnnisNYT: Patrick Soon-Shiong takes over as owner of The LA Times today. In April, @tarangoNYT &amp; @melbournecoal talked to him about his…",0.0,0.0,1.0,0.0,66
-66,@NYTimes,Mon Jun 18 15:40:04 +0000 2018,"“Saudi Aramco has always carried the kingdom on its back. But to support the kingdom in the coming decades, it need… https://t.co/qjC6kSNj7r",0.4019,0.114,0.886,0.0,67
-67,@NYTimes,Mon Jun 18 15:30:11 +0000 2018,“The last thing you’d be thinking of when you saw her were her disabilities. The flamboyance was distracting.” https://t.co/JShE2jSa9i,0.0,0.0,1.0,0.0,68
-68,@NYTimes,Mon Jun 18 15:20:08 +0000 2018,"RT @nytopinion: A dog loves a person the way people love each other only while in the grip of new love, writes @MargaretRenkl https://t.co/…",0.9201,0.389,0.611,0.0,69
-69,@NYTimes,Mon Jun 18 15:10:02 +0000 2018,Public schools are closing and being replaced by religious schools. Tens of thousands of public teachers have been… https://t.co/1idgWoxqkm,0.0,0.0,1.0,0.0,70
-70,@NYTimes,Mon Jun 18 15:00:14 +0000 2018,"""The whole idea of, 'Here's an attraction, let's build a parking lot next to it' — we're not doing that any more,""… https://t.co/vL8GKEqebJ",0.4588,0.13,0.87,0.0,71
-71,@NYTimes,Mon Jun 18 14:45:09 +0000 2018,"The Supreme Court rejected 2 challenges to partisan voting districts on technical grounds, a setback for opponents… https://t.co/jLpHgOtROB",0.1531,0.231,0.613,0.156,72
-72,@NYTimes,Mon Jun 18 14:30:13 +0000 2018,"""Gaming disorder"" is being recognized for the first time by the World Health Organization https://t.co/z5da1jsMeD",-0.4019,0.0,0.838,0.162,73
-73,@NYTimes,Mon Jun 18 14:16:03 +0000 2018,"""Some of the women we have encountered in detention at the border have reported facing pressure to deport voluntari… https://t.co/xbhVFB8yXm",-0.5719,0.0,0.793,0.207,74
-74,@NYTimes,Mon Jun 18 14:00:07 +0000 2018,At least five people died on Sunday in South Texas after an SUV carrying a dozen unauthorized immigrants crashed wh… https://t.co/nFNEnMNFP0,-0.5574,0.0,0.841,0.159,75
-75,@NYTimes,Mon Jun 18 13:45:05 +0000 2018,RT @JackEwingNYT: Will Audi chief Rupert Stadler become the first auto executive to manage his division from jail?  https://t.co/kRDNgPLcA3,0.0,0.0,1.0,0.0,76
-76,@NYTimes,Mon Jun 18 13:41:03 +0000 2018,"Breaking News: President Trump attacked Germany's immigration policies, falsely claiming crime was up there, and sa… https://t.co/wUxO8Ea0gG",-0.7579,0.0,0.698,0.302,77
-77,@NYTimes,Mon Jun 18 13:30:05 +0000 2018,"Andreas Granqvist put Sweden ahead of South Korea, 1-0, on a penalty kick after a video review. #SWEKOR live update… https://t.co/JIoUAEg1Mc",-0.4588,0.0,0.857,0.143,78
-78,@NYTimes,Mon Jun 18 13:13:03 +0000 2018,"RT @nytopinion: The barbaric policy of family separation is an outgrowth of Trump's own personal cruelty, writes @CharlesMBlow https://t.co…",-0.5994,0.0,0.822,0.178,79
-79,@NYTimes,Mon Jun 18 13:00:11 +0000 2018,Morning Briefing: Here's what you need to know to start your day https://t.co/UPLSLYSuwX https://t.co/KBsawx6osR,0.0,0.0,1.0,0.0,80
-80,@NYTimes,Mon Jun 18 12:51:03 +0000 2018,"""I saw the ceiling and the floor undulating, and I could barely stand,"" said a man who was at a train station when… https://t.co/c3pRPAtXy6",0.0,0.0,1.0,0.0,81
-81,@NYTimes,Mon Jun 18 12:40:05 +0000 2018,"The fact that Germany has lost a game is not a disaster. The manner in which it came about, though, is most certain… https://t.co/WLxFR4G3xw",0.2486,0.129,0.781,0.09,82
-82,@NYTimes,Mon Jun 18 12:30:10 +0000 2018,"""The thought that any state would seek to deter parents by inflicting such abuse on children is unconscionable,"" sa… https://t.co/Rv3VlCsGy8",-0.6369,0.0,0.819,0.181,83
-83,@NYTimes,Mon Jun 18 12:21:06 +0000 2018,"In 2015, Bavarians turned out in droves to welcome the refugees with gifts of food and clothing at bus and train st… https://t.co/dHWGY9w6en",0.4588,0.12,0.88,0.0,84
-84,@NYTimes,Mon Jun 18 12:15:03 +0000 2018,"South Korea and Sweden are in a challenging group with Mexico and Germany, so both will be eager for three points.… https://t.co/JM7j6CLSYL",0.4767,0.177,0.823,0.0,85
-85,@NYTimes,Mon Jun 18 12:11:03 +0000 2018,Officials said there had been threats of violence before the shooting at a festival in New Jersey. Trenton's mayor-… https://t.co/Q9DE4ftoA2,-0.5719,0.123,0.613,0.264,86
-86,@NYTimes,Mon Jun 18 12:00:13 +0000 2018,"Your daily @DealBook Briefing:
-
-• CEOs think Kim played Trump. 
-
-• Trade fights are taking their toll on business.… https://t.co/cgvneDNDfc",-0.0772,0.114,0.758,0.128,87
-87,@NYTimes,Mon Jun 18 11:42:50 +0000 2018,"""I just want to run naturally, the way I was born."" Caster Semenya is trying to block a rule that seeks to limit th… https://t.co/U1F0txD1W5",-0.3818,0.052,0.833,0.115,88
-88,@NYTimes,Mon Jun 18 11:30:06 +0000 2018,"""It is immoral. And it breaks my heart,"" Laura Bush wrote in The Washington Post. Leading Republicans joined Democr… https://t.co/HCmIOg46Xl",-0.4588,0.0,0.864,0.136,89
-89,@NYTimes,Mon Jun 18 11:20:04 +0000 2018,"""I'll have my toothbrush, and the book, sketch pad, small bottles of ink and steel pens and pencils. I might leave… https://t.co/MwPkHKepBb",0.0,0.0,1.0,0.0,90
-90,@NYTimes,Mon Jun 18 11:14:05 +0000 2018,"For a year and a half, President Trump has threatened to crack down on leaks and leakers.
-The seizure of emails and… https://t.co/kINVpvkfdQ",-0.4588,0.0,0.87,0.13,91
-91,@NYTimes,Mon Jun 18 11:00:04 +0000 2018,"""Quoting a racist dictator bent on genocide or his minister of propaganda has no place in our school or our communi… https://t.co/IDjikgUJmN",-0.802,0.0,0.687,0.313,92
-92,@NYTimes,Mon Jun 18 10:46:06 +0000 2018,RT @RorySmith: There’s something different about this England. Everyone seems...happy. I went to ask @dele_official why that might be. Turn…,0.0,0.0,1.0,0.0,93
-93,@NYTimes,Mon Jun 18 10:30:04 +0000 2018,Morning Briefing: Here's what you need to know to start your day https://t.co/ixcjtLy0DG https://t.co/q6rSTACvOh,0.0,0.0,1.0,0.0,94
-94,@NYTimes,Mon Jun 18 10:20:11 +0000 2018,Did Mexico's celebration after the World Cup win over Germany cause an earthquake? https://t.co/Oua3fKTWI3 https://t.co/2Dlkf6OCWm,0.5859,0.213,0.787,0.0,95
-95,@NYTimes,Mon Jun 18 10:08:41 +0000 2018,"Macedonia signed a landmark agreement to change its name to North Macedonia, sealing a deal with Greece that would,… https://t.co/gYTLAC27lt",0.5423,0.22,0.78,0.0,96
-96,@NYTimes,Mon Jun 18 09:45:06 +0000 2018,"""As far as freedom of speech is concerned, we shouldn't be naïve,"" said the executive director of a Malaysian human… https://t.co/mPaymD3BDZ",0.6369,0.181,0.819,0.0,97
-97,@NYTimes,Mon Jun 18 09:30:10 +0000 2018,"Men who film up women's skirts and down their blouses, often with tiny cameras, could face jail time in Britain. Bu… https://t.co/lGe2XhDT7q",0.0,0.0,1.0,0.0,98
-98,@NYTimes,Mon Jun 18 09:15:05 +0000 2018,"Some 600 million Indians, about half the population, face high to extreme water scarcity conditions, with about 200… https://t.co/kWnSjE7PQf",0.0,0.0,1.0,0.0,99
-99,@NYTimes,Mon Jun 18 09:00:03 +0000 2018,"Melania Trump said the United States should be governed ""with a heart,"" but did not directly take issue with Presid… https://t.co/l6dnGvVix5",0.2263,0.091,0.909,0.0,100
+https://t.co/l44nIinrfy",0.0,0.0,1.0,0.0,86
+86,@NYTimes,Fri Jun 22 19:06:51 +0000 2018,You aren't the only one admiring Nigeria's World Cup kits https://t.co/dip7uO38Cq https://t.co/6nZbPfRPeh,0.3818,0.191,0.809,0.0,87
+87,@NYTimes,Fri Jun 22 18:55:02 +0000 2018,Aleksandar Mitrovic gave Serbia an early 1-0 lead over Switzerland. Follow this #WorldCup matchup live: https://t.co/QtdYrD28r7,0.0,0.0,1.0,0.0,88
+88,@NYTimes,Fri Jun 22 18:40:06 +0000 2018,"Red league, blue league: Why is the NFL so tangled up in political controversy while NBA players dive into the fray… https://t.co/vXGdrti2O4",0.0,0.0,1.0,0.0,89
+89,@NYTimes,Fri Jun 22 18:26:18 +0000 2018,"RT @PatriciaMazzei: Just toured the temporary shelter for unaccompanied children in Homestead, Fla. This is the second largest shelter in t…",0.0,0.0,1.0,0.0,90
+90,@NYTimes,Fri Jun 22 18:15:07 +0000 2018,"""The kingdom has fallen. The park is gone. Welcome to the petting zoo,"" our critic A.O. Scott writes. https://t.co/kDjR5eIJZv",-0.1531,0.127,0.678,0.195,91
+91,@NYTimes,Fri Jun 22 18:00:09 +0000 2018,"What do a day care center, a vegetarian restaurant, a hair salon, an outdoor clothing maker and an investigative ne… https://t.co/2VNIS0Blmc",0.4939,0.158,0.842,0.0,92
+92,@NYTimes,Fri Jun 22 17:45:07 +0000 2018,"Modern Love: ""We love inviting each other over and also sending each other home"" https://t.co/8SnbfbwNY9",0.8934,0.471,0.529,0.0,93
+93,@NYTimes,Fri Jun 22 17:30:06 +0000 2018,"The Hungarian State Opera canceled over a dozen performances of “Billy Elliot,” after a newspaper columnist accused… https://t.co/kRUZwJvKzn",0.0,0.0,1.0,0.0,94
+94,@NYTimes,Fri Jun 22 17:16:54 +0000 2018,The political and social sensibilities of the NFL and the NBA have been exposed like never before. And they're in s… https://t.co/HwmjczMxmf,0.296,0.105,0.84,0.055,95
+95,@NYTimes,Fri Jun 22 17:05:06 +0000 2018,RT @nytimesbusiness: Italy’s Economy Was Humming Nicely. Then Came Trump. https://t.co/0QqapPUlXV,0.4404,0.225,0.775,0.0,96
+96,@NYTimes,Fri Jun 22 16:55:05 +0000 2018,Is your dentist coaching a World Cup team? https://t.co/tPAhAg3t7D,0.0,0.0,1.0,0.0,97
+97,@NYTimes,Fri Jun 22 16:45:08 +0000 2018,RT @julieturkewitz: My take on the race for Colorado governor. The big question: Just how far left is this frontier state ready to go? “It’…,0.3612,0.094,0.906,0.0,98
+98,@NYTimes,Fri Jun 22 16:35:06 +0000 2018,"Trump tweeted that Republicans should stop “wasting their time"" over the party's latest immigration proposal https://t.co/t6BDqi3alE",-0.296,0.0,0.872,0.128,99
+99,@NYTimes,Fri Jun 22 16:25:05 +0000 2018,RT @nytgraphics: Chief Justice Roberts joined the liberal wing of the Supreme Court to rule that the government generally needs a warrant t…,0.7906,0.259,0.741,0.0,100
