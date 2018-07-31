@@ -1,0 +1,24 @@
+#navbarText {
+  color: red;
+}
+.box {
+    min-height: 50px;
+    padding: 5px;
+    margin: 5px;
+    font-weight: 800;
+    color: #fff;
+  }
+  
+  .red {
+    background: red;
+    text-decoration-color: whitesmoke;
+    font-optical-sizing: 35px;
+  }
+  
+  .purple {
+    background: rebeccapurple;
+  }
+  
+  .red {
+    background: indianred;
+  }
