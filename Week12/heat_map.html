@@ -32,7 +32,7 @@
             <div class="dropdown-divider"></div>
             <a class="dropdown-item" href="wind_speed.html">Wind Speed</a>
             <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="heat_map.html">Heat Map</a>
+            <a class="dropdown-item active" href="heat_map.html">Heat Map</a>
           </div>
         </li>
         <li class="nav-item">
@@ -45,41 +45,40 @@
     </div>
   </nav>
   <div class="container">
-      <section class="row">
-        <div class="col-md-8">
-          <article class="main-content">
-            <h1 class="description-header">Summary: Latitude vs. X</h1>
-            <hr class="description-hr"/>
-            <img src="Images/LatitudeVsTemperature.png" alt="" id="description-image"/>
-            <p>Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. We will use Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?" Now, we know what you may be thinking: <b>"Duh. It gets hotter..."</b> But, if pressed, how would you <b>prove</b> it? </p>
-            <p>For this challenge I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I used Python library(<a href="https://pypi.python.org/pypi/citipy" target="_blank">CityPy</a>) and the <a href="https://openweathermap.org/api" target="_blank">OpenWeatherMap API</a>, and a little common sense to create a representative model of weather across world cities.</p>
-          </article>
-        </div>
-        <div class="col-md-4">
-          <section class="sidemenu-block">
-            <div class="sidemenu-content">
-              <h2 class="sidemenu-header">Visualizations</h2>
-              <hr />
-              <div id="images">
-                <a href="max_temp.html"><img src="Images/LatitudeVsTemperature.png" alt="Latitude vs. Max Temperature" class="sidemenu-photo"></a>
-                <a href="humidity.html"><img src="Images/LatitudeVsHumidity.png" alt="Latitude vs. Humidity" class="sidemenu-photo"></a>
-                <a href="cloudiness.html"><img src="Images/LatitudeVsCloudiness.png" alt="Latitude vs. Cloudiness" class="sidemenu-photo"></a>
-                <a href="wind_speed.html"><img src="Images/LatitudeVsWindSpeed.png" alt="Latitude vs. Wind Speed" class="sidemenu-photo"></a>
+        <section class="row">
+          <div class="col-md-8">
+            <article class="main-content">
+              <h1 class="description-header">Heat Map</h1>
+              <hr class="description-hr"/>
+              <img src="Images/WorldDistributions.png" alt="" class="img-responsive"/>
+              <p>This graph shows the distribution of the random cities selected and their average temperatures. From this image we are able to easily identify that the sample is representing the entire range of latitude / longitude range and gives a good idea of the findings of this study.</p>
+            </article>
+          </div>
+          <div class="col-md-4">
+                <section class="sidemenu-block">
+                  <div class="sidemenu-content">
+                    <h2 class="sidemenu-header">Visualizations</h2>
+                    <hr />
+                    <div id="images">
+                      <a href="max_temp.html"><img src="Images/LatitudeVsTemperature.png" alt="Latitude vs. Max Temperature" class="sidemenu-photo"></a>
+                      <a href="humidity.html"><img src="Images/LatitudeVsHumidity.png" alt="Latitude vs. Humidity" class="sidemenu-photo"></a>
+                      <a href="cloudiness.html"><img src="Images/LatitudeVsCloudiness.png" alt="Latitude vs. Cloudiness" class="sidemenu-photo"></a>
+                      <a href="wind_speed.html"><img src="Images/LatitudeVsWindSpeed.png" alt="Latitude vs. Wind Speed" class="sidemenu-photo"></a>
+                    </div>
+                  </div>
+                </section>
+                <section class="sidemenu-heatmap">
+                    <div class="sidemenu-content">
+                      <h2 class="sidemenu-header">Heat Map</h2>
+                      <hr />
+                      <div id="image-heatmap">
+                        <a href="heat_map.html"><img src="Images/WorldDistributions.png" alt="Latitude vs. Max Temperature" class="heatmap-photo"></a>
+                      </div>
+                    </div>
+                  </section>
               </div>
-            </div>
-          </section>
-          <section class="sidemenu-heatmap">
-              <div class="sidemenu-content">
-                <h2 class="sidemenu-header">Heat Map</h2>
-                <hr />
-                <div id="image-heatmap">
-                  <a href="heat_map.html"><img src="Images/WorldDistributions.png" alt="Latitude vs. Max Temperature" class="heatmap-photo"></a>
-                </div>
-              </div>
-            </section>
-        </div>
-      </section>
-    </div>
+        </section>
+      </div>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>

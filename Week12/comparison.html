@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>WeatherPy</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <!-- Our own CSS stylesheet -->
+  <link rel="stylesheet" href="styles.css" media="screen">
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <a class="navbar-brand" href="index.html">WeatherPy</a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Plots
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="max_temp.html">Max Temperature</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="humidity.html">Humidity</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="cloudiness.html">Cloudiness</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="wind_speed.html">Wind Speed</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="heat_map.html">Heat Map</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" href="comparison.html">Comparison<span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="data.html">Data<span class="sr-only">(current)</span></a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container">
+    <article class="main-content row">
+      <div class="col-md-12">
+          <h1 class="description-header">Comparison: Latitude vs X</h1>
+          <hr class="description-hr"/>
+          <p class="description-text">Click on the individual plot to get more details.</p>
+          <div class="main-content row">
+            <div class="col-md-6">
+                <h3 class="comparison-header">vs. Max Temperature</h3>
+                <a href="max_temp.html"><img src="Images/LatitudeVsTemperature.png" alt="Latitude vs. Max Temperature" class="comparison-image img-responsive"></a>
+                <hr class="visible-xs visible-sm">
+              </div>
+              <div class="col-md-6">
+                <h3 class="comparison-header">vs. Humidity</h3>
+                <a href="humidity.html"><img src="Images/LatitudeVsHumidity.png" alt="Latitude vs. Humidity" class="comparison-image img-responsive"></a>
+                <hr class="visible-xs visible-sm">
+              </div>
+              <div class="col-md-6">
+                <h3 class="comparison-header">vs. Cloudiness</h3>
+                <a href="cloudiness.html"><img src="Images/LatitudeVsCloudiness.png" alt="Latitude vs. Cloudiness" class="comparison-image img-responsive"></a>
+                <hr class="visible-xs visible-sm">
+              </div>
+              <div class="col-md-6">
+                <h3 class="comparison-header">vs. Wind Speed</h3>
+                <a href="wind_speed.html"><img src="Images/LatitudeVsWindSpeed.png" alt="Latitude vs. Wind Speed" class="comparison-image img-responsive"></a>
+              </div>
+            </div>
+          </div>
+    </article>    
+  </div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</body>
+
+</html>

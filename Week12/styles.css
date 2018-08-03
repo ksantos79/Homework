@@ -1,24 +1,86 @@
-#navbarText {
-  color: red;
+body {
+  margin-bottom: 150px;
+  background-color: rgba(210, 213, 255, 0.459);
 }
-.box {
-    min-height: 50px;
-    padding: 5px;
-    margin: 5px;
-    font-weight: 800;
-    color: #fff;
-  }
+.main-content {
+  padding: 25px;
+  margin-top: 30px;
+  background-color: #fff;
+}
+.main-content > p {
+  padding-top: 30px;
+  font-size: 20px;
+  line-height: 25px;
+  color: rgb(131, 112, 179);
+}
+.description-text {
+  padding-bottom: 20px;
+}
+
+#description-image {
+  float: left;
+  width: 300px;
+  height: 200px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.sidemenu-block {
+  width: 100%;
+  padding: 25px 25px 35px;
+  margin-top: 30px;
+  background-color: #fff;
+}
+
+.sidemenu-header {
+  margin-bottom: 15px;
+  font-family: Georgia, Times, "Times New Roman", serif; 
+  font-size: 25px;
+  font-weight: bold;
+  color: rgb(131, 112, 179);
+}
+
+.sidemenu-photo {
+  width: 140px;
+  height: 100px;
+}
+
+.sidemenu-photo:hover {
+  opacity: 0.6;
+  border: 2px solid rgb(131, 112, 179);
   
-  .red {
-    background: red;
-    text-decoration-color: whitesmoke;
-    font-optical-sizing: 35px;
-  }
-  
-  .purple {
-    background: rebeccapurple;
-  }
-  
-  .red {
-    background: indianred;
-  }
+}
+
+
+#images {
+  padding-top: 15px;
+  text-align: center;
+}
+
+.sidemenu-heatmap {
+  width: 100%;
+  padding: 15px 10px 5px;
+  margin-top: 30px;
+  background-color: #fff;
+}
+
+#image-heatmap {
+  padding-top: 5px;
+  text-align: center;
+}
+
+.heatmap-photo {
+  width: 250px;
+  height: 200px;
+}
+
+.comparison-image:hover {
+  opacity: 0.6;
+}
+
+.comparison-header {
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(131, 112, 179);
+  text-align: center;
+}
