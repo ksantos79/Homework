@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Hot Finds</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styles.css" media="screen">
+</head>
+
+<body>
+  <div class="container">
+
+    <div class="jumbotron text-center">
+      <h1>Mars Data</h1>
+      <p><a class="btn btn-primary btn-lg" href="/scrape" role="button">Get the latest data on Mars</a></p>
+    </div>
+
+    <!-- Mars Data -->
+    <div class="row" id="craiglist-listings">
+      <div class="col-md-12">
+        <h1 class="heading">Latest Mars News</h1>
+        <h3 class="heading">{{mars.news_title}}</h3>
+        <p>{{mars.news_paragraph}}</p>
+      </div>
+    </div>
+    <div class="row" id="craiglist-listings">
+      <div class="container">
+        <div class="col-md-8">
+          <section>
+            <h3 class="heading">Featured Mars Image</h3>
+            <img class="img-responsive" src="{{mars.img_url}}">
+          </section>
+          <section>
+            <h3 class="heading">Mars Hemispheres</h3>
+            {% for x in mars.hemi_title %}
+            <div class="col-md-6">
+                <img class="img-responsive" src="{{x[1] | default('static/images/error.png', true)}}">
+                <div class="caption">
+                    {{x[0]}}
+                </div>
+            </div>
+            {% endfor %}
+        </section>
+        </div>
+        <div class="col-md-4">
+          <section class="sidemenu-block">
+            <div class="sidemenu-content">
+              <h3 class="sidemenu-header">Latest Mars Weather</h3>
+              <hr>
+              <p>{{mars.weather[0]}}</p>
+            </div>
+          </section>
+          <section class="sidemenu-block">
+            <div class="sidemenu-header">
+              <h3 class="sidemenu-header">Mars Facts</h3>
+              <hr>
+              <div class="table-responsive">{{mars.facts_table | safe}} </div>             
+            </div>
+          </section>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+<script 
+</html>
