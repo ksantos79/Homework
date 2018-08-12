@@ -24,16 +24,16 @@ function buildCharts(sample) {
     
     console.log(response.otu_ids);
     
-    let otu_ids = response.otu_ids;
-    let otu_labels = response.otu_labels;
-    let sample_values = response.sample_values;
+    const otu_ids = response.otu_ids;
+    const otu_labels = response.otu_labels;
+    const sample_values = response.sample_values;
     // @TODO: Build a Pie Chart
     // HINT: You will need to use slice() to grab the top 10 sample_values,
     // otu_ids, and labels (10 each).
     // let pieContainer = d3.select("#pie")
     // pieContainer.html("")
 
-    let data = [{
+    let pieData = [{
       values: sample_values.slice(0,10),
       labels: otu_ids.slice(0,10),
       hovertext: otu_labels.slice(0,10),
@@ -41,12 +41,11 @@ function buildCharts(sample) {
       type: 'pie'
     }];
     
-    let layout = {
-      height: 600,
-      width: 600
+    let pieLayout = {
+      margin: {t:0},
     };
     
-    Plotly.plot('pie', data, layout);
+    Plotly.plot('pie', pieData, pieLayout);
 
     // @TODO: Build a Bubble Chart using the sample data
     // let bubbleContainer = d3.select("#bubble")
@@ -60,7 +59,7 @@ function buildCharts(sample) {
       marker: {
         'size': sample_values,
         'color': otu_ids,
-        // 'showscale': 'True'
+        'showscale': 'True'
       }
     }];
 
@@ -72,6 +71,7 @@ function buildCharts(sample) {
       }
     };
     Plotly.plot("bubble",bubbleData,bubbleLayout);
+
     // BONUS: Build the Gauge Chart
     // buildGauge(data.WFREQ);
 
