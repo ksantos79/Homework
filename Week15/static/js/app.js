@@ -64,7 +64,9 @@ function buildCharts(sample) {
     }];
 
     let bubbleLayout = {
-      margin: {t:0},
+      margin: {
+        t:0
+      },
       hovermode: "closest",
       xaxis: {
         title: "OTU ID"
