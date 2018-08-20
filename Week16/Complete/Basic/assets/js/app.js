@@ -168,7 +168,5 @@ d3.csv("data\\data.csv", function(err, csvdata) {
     .on("mouseout", function(d) {
       toolTip.hide(d);
     });
-
-
 });
 
